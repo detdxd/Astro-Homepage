@@ -15,14 +15,14 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 <br/>
 **Basics of Astrophysics**:    
 
-*About Science*: [*The Pleasure of Finding Things Out*](https://movie.douban.com/subject/10554714/) ([video](https://www.bilibili.com/video/av33429330),[book](https://book.douban.com/subject/1899679/)).  
+*About Science*: [*The Pleasure of Finding Things Out*](https://movie.douban.com/subject/10554714/) ([video](https://www.bilibili.com/video/av33429330),[book 1](https://book.douban.com/subject/1899679/), [2](http://www.feynmanlectures.caltech.edu/info/)).  
   
 *Basic Mathematics*: [*Basic Mathematics in physics*](https://book.douban.com/subject/11906759/), [More](https://book.douban.com/subject/2000018/).   
 *Basic Physics*: [*Fundamental Physics*1 ](https://book.douban.com/subject/25866680/),[2](https://book.douban.com/subject/26877960/)([video 1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/special/opencourse/physicsii.html); [Chi 1](https://book.douban.com/subject/30146984/),[2](https://book.douban.com/subject/30614858/)); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](https://book.douban.com/subject/26635284/), [2](https://book.douban.com/subject/24542247/), [3](https://book.douban.com/subject/12646418/).  
   
 *First Step to Astrophysics*: [*How the Universe Works*](https://movie.douban.com/subject/10464515/)([video](https://www.bilibili.com/bangumi/play/ep240462));  [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
 *Radiative processes*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
-*Gas Dynamics*: [Gas Dynamics 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/12037906/), [2](https://book.douban.com/subject/2883152/).  
+*Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/12037906/), [2](https://book.douban.com/subject/2883152/).  
 *Gravitation*:[*Gravitation and Cosmology*-Eng](https://book.douban.com/subject/1465335/), [Chi](https://book.douban.com/subject/30165509/);  [More: 1](https://book.douban.com/subject/5473973/), [2](https://book.douban.com/subject/1463278/), [3](https://book.douban.com/subject/3072016/), [4](https://book.douban.com/subject/4072985/).  
 *Basic High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/5261306/), [2](https://book.douban.com/subject/1778012/), [3](https://book.douban.com/subject/3154999/), [4](https://book.douban.com/subject/4691362/).   
   
