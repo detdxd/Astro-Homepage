@@ -40,5 +40,5 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 *Job*: [AAS.jobregister](https://jobregister.aas.org/).  
   
 *Courses*: [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html), [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](http://www.astro.sunysb.edu/mzingale/classes.html), [runoob](https://www.runoob.com/), [yibai](https://www.yiibai.com/), [netease](https://open.163.com/ocw/), [bili](https://www.bilibili.com/v/technology/speech_course/?spm_id_from=333.78.b_7375626e6176.4#/).  
-*Caidan*: [bili.hei1](https://www.bilibili.com/video/av35435186/?p=15),[2](https://www.bilibili.com/bangumi/play/ep281875), [douban.homeheart](https://movie.douban.com/subject/26709258/), [douban.homeland](https://movie.douban.com/subject/32659890/), [douban.wu](https://www.douban.com/doulist/119299595/).
+*Caidan*: [bili.hei1](https://www.bilibili.com/video/av35435186/?p=15),[2](https://www.bilibili.com/bangumi/play/ep281875), [douban.homeheart](https://movie.douban.com/subject/26709258/), [douban.wu](https://www.douban.com/doulist/119299595/).
   
