@@ -14,11 +14,9 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
    Guo, F., Duan, X., Yuan, Y-F, 2018, MNRAS, 473, 1332    
 <br/>
 **Basics of Astrophysics**:    
-
-*About Science*: [*The Pleasure of Finding Things Out*](https://movie.douban.com/subject/10554714/) ([video](https://www.bilibili.com/video/av33429330),[book 1](https://book.douban.com/subject/1899679/), [2](http://www.feynmanlectures.caltech.edu/info/)).  
   
 *Basic Mathematics*: [*Basic Mathematics in physics*](https://book.douban.com/subject/11906759/), [More](https://book.douban.com/subject/2000018/).   
-*Basic Physics*: [*Fundamental Physics*1 ](https://book.douban.com/subject/25866680/),[2](https://book.douban.com/subject/26877960/)([video 1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/special/opencourse/physicsii.html); [Chi 1](https://book.douban.com/subject/30146984/),[2](https://book.douban.com/subject/30614858/)); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](https://book.douban.com/subject/26635284/), [2](https://book.douban.com/subject/24542247/), [3](https://book.douban.com/subject/12646418/).  
+*Basic Physics*: [*Fundamental Physics*1 ](https://book.douban.com/subject/25866680/),[2](https://book.douban.com/subject/26877960/)([video 1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/special/opencourse/physicsii.html); [Chi 1](https://book.douban.com/subject/30146984/),[2](https://book.douban.com/subject/30614858/)); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](http://www.feynmanlectures.caltech.edu/info/), [2](https://book.douban.com/subject/26635284/), [3](https://book.douban.com/subject/24542247/), [4](https://book.douban.com/subject/12646418/).  
   
 *First Step to Astrophysics*: [*How the Universe Works*](https://movie.douban.com/subject/10464515/)([video](https://www.bilibili.com/bangumi/play/ep240462));  [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
 *Radiative processes*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
@@ -40,5 +38,5 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 *Job*: [AAS.jobregister](https://jobregister.aas.org/).  
   
 *Courses*: [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html), [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](http://www.astro.sunysb.edu/mzingale/classes.html), [runoob](https://www.runoob.com/), [yibai](https://www.yiibai.com/), [netease](https://open.163.com/ocw/), [bili](https://www.bilibili.com/v/technology/speech_course/?spm_id_from=333.78.b_7375626e6176.4#/).  
-*Caidan*: [bili.hei1](https://www.bilibili.com/video/av35435186/?p=15),[2](https://www.bilibili.com/bangumi/play/ep281875), [douban.homeheart](https://movie.douban.com/subject/26709258/), [douban.wu](https://www.douban.com/doulist/119299595/).
+*Caidan*: [science.1](https://www.bilibili.com/video/av33429330),[2](https://book.douban.com/subject/1899679/); [xiaohei.1](https://www.bilibili.com/video/av35435186/?p=15),[2](https://www.bilibili.com/bangumi/play/ep281875), [xiaohei.homeheart](https://movie.douban.com/subject/26709258/); [wu.note](https://www.douban.com/doulist/119299595/).
   
