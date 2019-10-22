@@ -20,7 +20,7 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
   
 *First Step to Astrophysics*: [*How the Universe Works*](https://movie.douban.com/subject/10464515/)([video](https://www.bilibili.com/bangumi/play/ep240462));  [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
 *Radiative processes*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
-*Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/12037906/), [2](https://book.douban.com/subject/2883152/).  
+*Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/12037906/), [2](https://book.douban.com/subject/2859955/), [3](https://book.douban.com/subject/2883152/).  
 *Gravitation*:[*Gravitation and Cosmology*-Eng](https://book.douban.com/subject/1465335/), [Chi](https://book.douban.com/subject/30165509/);  [More: 1](https://book.douban.com/subject/5473973/), [2](https://book.douban.com/subject/1463278/), [3](https://book.douban.com/subject/3072016/), [4](https://book.douban.com/subject/4072985/).  
 *Basic High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/5261306/), [2](https://book.douban.com/subject/1778012/), [3](https://book.douban.com/subject/3154999/), [4](https://book.douban.com/subject/4691362/).   
   
