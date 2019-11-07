@@ -16,16 +16,16 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 **Basics of Astrophysics**:    
   
 *Basic Mathematics*: [*Basic Mathematics in physics*](https://book.douban.com/subject/11906759/), [More](https://book.douban.com/subject/2000018/).   
-*Basic Physics*: [*Fundamental Physics*1 ](https://book.douban.com/subject/25866680/),[2](https://book.douban.com/subject/26877960/)([video 1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/special/opencourse/physicsii.html); [Chi 1](https://book.douban.com/subject/30146984/),[2](https://book.douban.com/subject/30614858/)); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](http://www.feynmanlectures.caltech.edu/info/), [2](https://book.douban.com/subject/26635284/), [3](https://book.douban.com/subject/12646418/).  
+*Basic Physics*: [*Fundamental Physics*1 ](https://book.douban.com/subject/25866680/),[2](https://book.douban.com/subject/26877960/); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](http://www.feynmanlectures.caltech.edu/info/), [2](https://book.douban.com/subject/26635284/), [3](https://book.douban.com/subject/12646418/).  
   
-*First Step to Astrophysics*: [*How the Universe Works*](https://movie.douban.com/subject/10464515/)([video](https://www.bilibili.com/bangumi/play/ep240462));  [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
-*Radiative processes*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
-*Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/12037906/), [3](https://book.douban.com/subject/2859955/), [4](https://book.douban.com/subject/2883152/).  
-*Gravitation*:[*Gravitation*-Eng](https://book.douban.com/subject/1465335/), [Chi](https://book.douban.com/subject/30165509/);  [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/3072016/), [3](https://book.douban.com/subject/4072985/).  
+*Basic Astrophysics*: [*How the Universe Works*](https://movie.douban.com/subject/10464515/);  [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
+*Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
+*Gravitation*: [*Gravitation*](https://book.douban.com/subject/1465335/);  [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/3072016/).  
+*Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/12037906/).   
 *Basic High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/5261306/), [2](https://book.douban.com/subject/1778012/), [3](https://book.douban.com/subject/3154999/), [4](https://book.douban.com/subject/4691362/).   
   
 *Numerical Methods*:  [*Numerical Analysis*](https://book.douban.com/subject/10580010/) ([Chi](https://book.douban.com/subject/4188358/)); [CFD](https://book.douban.com/subject/2388518/) ([Chi](https://book.douban.com/subject/5921445/)); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
-*Codes for Astrophysical GasDynamics*:  [PLUTO](http://plutocode.ph.unito.it/); [More: 1](https://github.com/bwoshea/ZEUS-MP_2), [2](https://princetonuniversity.github.io/athena/download.html).  
+*Codes*:  [PLUTO](http://plutocode.ph.unito.it/); [More: 1](https://github.com/bwoshea/ZEUS-MP_2), [2](https://princetonuniversity.github.io/athena/download.html).  
 <br/>
 **Links**:
   
@@ -38,5 +38,5 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 *Job*: [AAS.jobregister](https://jobregister.aas.org/).  
   
 *Courses*: [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html), [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](http://www.astro.sunysb.edu/mzingale/classes.html), [runoob](https://www.runoob.com/), [yibai](https://www.yiibai.com/), [netease](https://open.163.com/ocw/), [bili](https://www.bilibili.com/v/technology/speech_course/?spm_id_from=333.78.b_7375626e6176.4#/).  
-*Caidan*: [science.1](https://www.bilibili.com/video/av33429330),[2](https://book.douban.com/subject/1899679/); [xiaohei.1](https://www.bilibili.com/video/av35435186/?p=15),[2](https://www.bilibili.com/bangumi/media/md28221675/?from=search&seid=7221289762943813412),[3](https://www.bilibili.com/bangumi/play/ep281875); [wu.note](https://www.douban.com/doulist/119299595/).
+*Outreach*: [science](https://www.bilibili.com/video/av33429330); [xiaohei.1](https://www.bilibili.com/video/av35435186/?p=15),[2](https://www.bilibili.com/bangumi/media/md28221675/?from=search&seid=7221289762943813412),[3](https://www.bilibili.com/bangumi/play/ep281875); [wu.note](https://www.douban.com/doulist/119299595/).
   
