@@ -9,14 +9,14 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 **Publications**:  
 
 2.[Metal-rich Trailing Outflows Uplifted by AGN Bubbles in Galaxy Clusters.](https://ui.adsabs.harvard.edu/abs/2018ApJ...861..106D/abstract)  
-   Duan, X.; Guo, F.; 2018, ApJ, 861, 106  
+   Duan, X., Guo, F. 2018, ApJ, 861, 106  
 1.[Reversing cooling flows with AGN jets: shock waves, rarefaction waves and trailing outflows.]( https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.1332G/abstract)  
-   Guo, F.; Duan, X.; Yuan, Y-F; 2018, MNRAS, 473, 1332    
+   Guo, F., Duan, X., Yuan, Y.-F. 2018, MNRAS, 473, 1332    
 <br/>
 **Basics of Astrophysics**:    
   
 *Basic Mathematics*: [*Basic Mathematics in physics*](https://book.douban.com/subject/11906759/), [More](https://book.douban.com/subject/2000018/).   
-*Basic Physics*: [*Fundamental Physics*1 ](https://book.douban.com/subject/25866680/),[2](https://book.douban.com/subject/26877960/); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](http://www.feynmanlectures.caltech.edu/info/), [2](https://book.douban.com/subject/26635284/), [3](https://book.douban.com/subject/12646418/), [4](https://book.douban.com/subject/24542247/).  
+*Basic Physics*: [*Fundamental Physics*1 ](https://book.douban.com/subject/25866680/),[2](https://book.douban.com/subject/26877960/); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](http://www.feynmanlectures.caltech.edu/info/), [2](https://book.douban.com/subject/26635284/), [3](https://book.douban.com/subject/12646418/).  
   
 *Basic Astrophysics*: [*How the Universe Works*](https://movie.douban.com/subject/10464515/);  [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
@@ -24,7 +24,7 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 *Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/12037906/).   
 *Basic High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/5261306/), [2](https://book.douban.com/subject/1778012/), [3](https://book.douban.com/subject/3154999/), [4](https://book.douban.com/subject/4691362/).   
   
-*Numerical Methods*:  [*Numerical Analysis*](https://book.douban.com/subject/10580010/) ([Chi](https://book.douban.com/subject/4188358/)); [CFD](https://book.douban.com/subject/2388518/) ([Chi](https://book.douban.com/subject/5921445/)); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
+*Numerical Methods*:  [*Numerical Analysis*](https://book.douban.com/subject/10580010/); [CFD](https://book.douban.com/subject/2388518/); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
 *Codes*:  [PLUTO](http://plutocode.ph.unito.it/); [More: 1](https://github.com/bwoshea/ZEUS-MP_2), [2](https://princetonuniversity.github.io/athena/download.html).  
 <br/>
 **Links**:
