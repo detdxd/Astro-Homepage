@@ -30,7 +30,7 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 **Links**:
   
 *Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [ADS](https://ui.adsabs.harvard.edu/).  
-*Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Nature](https://www.nature.com/), [APS](https://www.aps.org/publications/index.cfm), .  
+*Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Nature](https://www.nature.com/), [APS](https://www.aps.org/publications/index.cfm).  
 *Books*: [Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.wiley.com/), [Cambridge](https://www.cambridge.org/core/what-we-publish/textbooks), [pdfdrive](https://www.pdfdrive.com/).  
 *Astro Pictures*: [NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).  
   
