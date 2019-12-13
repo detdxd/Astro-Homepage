@@ -1,4 +1,4 @@
-***[Xiaodong Duan, PhD Student in Astrophysics](https://www.researchgate.net/profile/Xiaodong_Duan)***  
+***Xiaodong Duan, PhD Student in Astrophysics***
 <br/><br/>
 **Current Research Interests**:  
 Relating some special physical models to concrete astrophysical phenomena *in simulations or analytically*.  
