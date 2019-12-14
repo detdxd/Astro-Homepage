@@ -18,7 +18,7 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 *Basic Mathematics*: [*Basic Mathematics in physics*](https://book.douban.com/subject/11906759/), [More](https://book.douban.com/subject/2000018/).   
 *Basic Physics*: [*Fundamental Physics* 1 ](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/); [More: Chi](https://book.douban.com/subject/1536321/), [Eng-1](http://www.feynmanlectures.caltech.edu/info/), [2](https://book.douban.com/subject/26635284/), [3](https://book.douban.com/subject/12646418/).  
   
-*Basic Astrophysics*: [*How the Universe Works*](https://www.bilibili.com/bangumi/play/ss25238/); [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
+*Basic Astrophysics*: [*How the Universe Works*](https://movie.douban.com/subject/10464515/); [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://book.douban.com/subject/2188838/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
 *Gravitation*: [*Gravitation*](https://book.douban.com/subject/1465335/);  [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/3072016/).  
 *Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/12037906/).   
