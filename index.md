@@ -36,5 +36,4 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 *Job*: [AAS.jobregister](https://jobregister.aas.org/).  
   
 *Courses*: [Shankar 1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](http://www.astro.sunysb.edu/mzingale/classes.html); [runoob](https://www.runoob.com/), [yibai](https://www.yiibai.com/).  
-*Lifetime*: [science](https://www.bilibili.com/video/av33429330); [xiaohei.1](https://www.bilibili.com/video/av35435186/?p=15),[2](https://www.bilibili.com/bangumi/media/md28221675/?from=search&seid=7221289762943813412),[3](https://www.bilibili.com/bangumi/play/ep281875); [wu.note](https://www.douban.com/doulist/119299595/).
-  
+
