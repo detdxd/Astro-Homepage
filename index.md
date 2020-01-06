@@ -33,6 +33,7 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 *Astro Pictures*: [NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).  
   
 *SHAO*:  [SHAO Astrophysics](http://astro.shao.cas.cn/), [BH Feedback Group of SHAO](http://cluster.shao.ac.cn/~fguo/index.html).  
+*CAS.etc*: [CAS](http://astronomy.pmo.cas.cn/); [CPS](http://www.cps-net.org.cn/).  
 *Job*: [AAS.jobregister](https://jobregister.aas.org/).  
   
 *Courses*: [Shankar 1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](http://www.astro.sunysb.edu/mzingale/classes.html); [runoob](https://www.runoob.com/), [yibai](https://www.yiibai.com/).  
