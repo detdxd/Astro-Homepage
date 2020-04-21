@@ -6,7 +6,7 @@ Relating some special physical models to concrete astrophysical phenomena *in si
 **Current Research Highlights**:  
 Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium, etc.  
 <br/>
-**Publications**: [My ADS Library](https://ui.adsabs.harvard.edu/user/libraries/)
+**Publications**: [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).
 
 <br/>
 **Basics of Astrophysics**:      
@@ -24,7 +24,7 @@ Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium
 **Links**:
   
 *Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [ADS](https://ui.adsabs.harvard.edu/).  
-*Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Nature](https://www.nature.com/), [APS](https://www.aps.org/publications/index.cfm).  
+*Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#), [APS](https://www.aps.org/publications/index.cfm).  
 *Books*: [Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.wiley.com/), [Cambridge](https://www.cambridge.org/core/what-we-publish/textbooks), [pdfdrive](https://www.pdfdrive.com/).  
 *Astro Pictures*: [NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).  
   
