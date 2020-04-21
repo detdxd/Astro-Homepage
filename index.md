@@ -6,12 +6,8 @@ Relating some special physical models to concrete astrophysical phenomena *in si
 **Current Research Highlights**:  
 Gas Dynamics in High Energy Astrophysics:  AGN Feedback, the Intracluster Medium, etc.  
 <br/>
-**Publications**:  
+**Publications**: [My ADS Library](https://ui.adsabs.harvard.edu/user/libraries/1ogBPRQcRLSPzvfR2UV-_g)
 
-2.[Metal-rich Trailing Outflows Uplifted by AGN Bubbles in Galaxy Clusters.](https://ui.adsabs.harvard.edu/abs/2018ApJ...861..106D/abstract)  
-   Duan, X., Guo, F. 2018, ApJ, 861, 106  
-1.[Reversing cooling flows with AGN jets: shock waves, rarefaction waves and trailing outflows.]( https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.1332G/abstract)  
-   Guo, F., Duan, X., Yuan, Y.-F. 2018, MNRAS, 473, 1332    
 <br/>
 **Basics of Astrophysics**:      
   
