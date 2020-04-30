@@ -4,7 +4,7 @@
 Relating some special physical models to concrete astrophysical phenomena *in simulations or analytically*.  
 <br/>
 **Current Research Highlights**:  
-Gas Dynamics in Astrophysics:  AGN feedback, Thermal instability in the intracluster medium, etc.  
+Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.  
 <br/>
 **Publications**: [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).
 
