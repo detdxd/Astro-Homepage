@@ -12,11 +12,12 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
 **Basics of Astrophysics**:      
   
   
-*Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More: 1](https://movie.douban.com/subject/10464515/), [2](https://book.douban.com/subject/2188838/).  
+*Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
-*Gravitation*: [*Gravitation* 1](https://book.douban.com/subject/1465335/), [2](https://book.douban.com/subject/24542247/);  [More: 1](https://book.douban.com/subject/3072016/), [2](https://book.douban.com/subject/4072985/).  
+*Gravitation*: [*Gravitation* 1](https://book.douban.com/subject/1465335/), [2](https://book.douban.com/subject/24542247/).  
 *Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/12037906/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/2880185/), [3](https://book.douban.com/subject/2859955/), [4](https://book.douban.com/subject/2883152/).   
 *High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/5261306/), [2](https://book.douban.com/subject/1778012/), [3](https://book.douban.com/subject/3154999/), [4](https://book.douban.com/subject/4691362/).   
+*Galaxies and Cosmology*: [Galaxies in the Universe](https://book.douban.com/subject/2188838/); [More: 1](https://book.douban.com/subject/4072985/), [2](https://book.douban.com/subject/3072016/).  
   
 *Numerical Methods*: [*Numerical Analysis*](https://book.douban.com/subject/10580010/); [CFD](https://book.douban.com/subject/2388518/); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/); [More: 1](https://github.com/bwoshea/ZEUS-MP_2), [2](https://princetonuniversity.github.io/athena/download.html), [3](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html).  
