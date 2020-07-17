@@ -22,7 +22,7 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
 *Numerical Methods*: [*Numerical Analysis*](https://book.douban.com/subject/10580010/); [CFD](https://book.douban.com/subject/2388518/); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/); [More: 3](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [2](https://arepo-code.org/), [3](https://princetonuniversity.github.io/athena/download.html), [4](https://github.com/bwoshea/ZEUS-MP_2).  
 
-*Some Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html);  [Runoob](https://www.runoob.com/), [Yibai](https://www.yiibai.com/).   
+*Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).   
 
 <br/>
 **Links**:
