@@ -9,8 +9,8 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
 **Publications**: [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).
 
 <br/>
-**Basics of Astrophysics**:      
-  
+**Basics of Astrophysics**:       
+   
   
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
@@ -21,6 +21,9 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
   
 *Numerical Methods*: [*Numerical Analysis*](https://book.douban.com/subject/10580010/); [CFD](https://book.douban.com/subject/2388518/); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/); [More: 3](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [2](https://arepo-code.org/), [3](https://princetonuniversity.github.io/athena/download.html), [4](https://github.com/bwoshea/ZEUS-MP_2).  
+
+*Some Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html);  [Runoob](https://www.runoob.com/), [Yibai](https://www.yiibai.com/).   
+
 <br/>
 **Links**:
   
@@ -33,6 +36,6 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
 *AS&PS*: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
 *Jobs*: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).  
   
-*Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html);  [runoob](https://www.runoob.com/), [yibai](https://www.yiibai.com/).  
+ 
 
 
