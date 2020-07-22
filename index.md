@@ -36,6 +36,6 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
     
 
  *Courses-Physics*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); .  
- *Course-Coding*:[Zingale](https://zingale.github.io/classes.html); [Conda](https://anaconda.org/); [Python](https://www.python.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).
+ *Course-Coding*: [Zingale](https://zingale.github.io/classes.html); [Conda](https://anaconda.org/); [Python](https://www.python.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).
 
 
