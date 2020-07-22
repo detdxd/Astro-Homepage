@@ -23,6 +23,13 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/); [More: 1](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [2](https://arepo-code.org/), [3](https://princetonuniversity.github.io/athena/download.html), [4](https://github.com/bwoshea/ZEUS-MP_2).  
 
 <br/>
+**Courses**:  
+  
+  
+*Courses-Physics*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html).  
+ *Courses-Coding*: [Zingale](https://zingale.github.io/classes.html); [Conda](https://anaconda.org/); [Python](https://www.python.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
+ 
+<br/>
 **Links**:
   
 *Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [Vox Charta](https://harvard.voxcharta.org/), [ADS](https://ui.adsabs.harvard.edu/).  
@@ -35,7 +42,6 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
 *Jobs*: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).  
     
 
- *Courses-Physics*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html).  
- *Course-Coding*: [Zingale](https://zingale.github.io/classes.html); [Conda](https://anaconda.org/); [Python](https://www.python.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).
+ 
 
 
