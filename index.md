@@ -21,16 +21,15 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
   
 *Numerical Methods*: [*Numerical Analysis*](https://book.douban.com/subject/10580010/); [CFD](https://book.douban.com/subject/2388518/); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/); [More: 1](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [2](https://arepo-code.org/), [3](https://princetonuniversity.github.io/athena/download.html), [4](https://github.com/bwoshea/ZEUS-MP_2).  
+  
+*Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html).  
 
-<br/>
-**Courses**:  
-  
-  
-*Courses-Physics*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html).  
- *Courses-Coding*: [Zingale](https://zingale.github.io/classes.html); [Python 1](https://www.python.org/), [2](https://anaconda.org/), [3](http://scipy-lectures.org/#); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
  
 <br/>
-**Links**:
+**Links**:  
+  
+*Python Tools:*[Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
+*Other tools:*; [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
   
 *Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [Vox Charta](https://harvard.voxcharta.org/), [ADS](https://ui.adsabs.harvard.edu/).  
 *Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#), [APS](https://www.aps.org/publications/index.cfm).  
