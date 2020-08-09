@@ -17,7 +17,7 @@ Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.
 *Gravitation*: [*Gravitation* 1](https://book.douban.com/subject/1465335/), [2](https://book.douban.com/subject/24542247/).  
 *Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/12037906/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/2880185/), [3](https://book.douban.com/subject/2859955/), [4](https://book.douban.com/subject/2883152/).   
 *High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/5261306/), [2](https://book.douban.com/subject/1778012/), [3](https://book.douban.com/subject/3154999/), [4](https://book.douban.com/subject/4691362/).   
-*Galaxies and Cosmology*: [Galaxies in the Universe](https://book.douban.com/subject/2188838/); [More: 1](https://book.douban.com/subject/4072985/), [2](https://book.douban.com/subject/3072016/).  
+*Galaxies and Cosmology*: [Galaxies](https://book.douban.com/subject/2188838/), [Cosmology](https://book.douban.com/subject/35170775/); [More: 1](https://book.douban.com/subject/4072985/), [2](https://book.douban.com/subject/3072016/).  
   
 *Numerical Methods*: [*Numerical Analysis*](https://book.douban.com/subject/10580010/); [CFD](https://book.douban.com/subject/2388518/); [More: 1](https://book.douban.com/subject/3715238/), [2](https://book.douban.com/subject/2251404/).   
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/); [More: 1](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [2](https://arepo-code.org/), [3](https://princetonuniversity.github.io/athena/download.html), [4](https://github.com/bwoshea/ZEUS-MP_2).    
