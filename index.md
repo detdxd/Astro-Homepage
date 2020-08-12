@@ -1,20 +1,21 @@
 ***Xiaodong Duan, PhD Student in Astrophysics***
 <br/><br/>
 
-**Research Interests**:  
+**Research Interests**  
 Astronomy: AGN Feedback and Stellar Feedback; Physics of Gas Medium(ISM, IGM, CGM, ICM ...).  
 Physics: Physics of Fluids and Plasmas.  
 Methods: Simulation and Semi-Quantitative Analysis.  
 <br/>
-**Further Interests**:  
+**Further Interests**  
 Relativistic Astrophysics and Cosmology.  
 Galaxy Formation and Evolution.  
 
 <br/>
-**Publications**: [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).
+**Publications**  
+[ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).
 
 <br/>
-**Note I: Basics of Astrophysics**:       
+**Note I: Basics of Astrophysics**       
   
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
@@ -27,7 +28,7 @@ Galaxy Formation and Evolution.
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/); [More: 1](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [2](https://arepo-code.org/), [3](https://princetonuniversity.github.io/athena/download.html), [4](https://github.com/bwoshea/ZEUS-MP_2).    
  
 <br/>
-**Note II: Links**:  
+**Note II: Links**  
   
 *Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/),[2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html).  
    
