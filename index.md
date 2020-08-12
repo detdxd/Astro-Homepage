@@ -1,16 +1,19 @@
 ***Xiaodong Duan, PhD Student in Astrophysics***
 <br/><br/>
-**Current Research Interests**:  
-Relating some special physical models to concrete astrophysical phenomena *in simulations or analytically*.  
+
+**Research Interests**:  
+Astronomy: AGN feedback and stellar feedback in Galaxies; Physics of gas medium in the universe (ISM, IGM, CGM, ICM ...).  
+Physics: Physics of fluids and plasmas. 
+Methods: Simulation and semi-quantitative analysis.  
 <br/>
-**Current Research Highlights**:  
-Gas Dynamics in Astrophysics:  High energy outbursts, Thermal instability, etc.  
+**Further Interests**:  
+Relativistic astrophysics and cosmology; Galaxy formation and evolution.  
+
 <br/>
 **Publications**: [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).
 
 <br/>
 **Basics of Astrophysics**:       
-   
   
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
