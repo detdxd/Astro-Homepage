@@ -7,7 +7,7 @@ Physics: Physics of Fluids and Plasmas.
 Methods: Simulation and Semi-Quantitative Analysis.  
 <br/>
 **Further Interests**  
-Relativistic Astrophysics and Cosmology.  
+High Energy Astrophysics and Cosmology.  
 Galaxy Formation and Evolution.  
 
 <br/>
