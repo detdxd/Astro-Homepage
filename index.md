@@ -18,9 +18,9 @@ Galaxy Formation and Evolution.
 **Note I: Basics of Astrophysics**       
   
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).  
-*Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).  
-*Relativity*: [*Relativity*](https://book.douban.com/subject/24542247/); [More](https://book.douban.com/subject/1465335/).  
-*Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/12037906/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/2880185/), [3](https://book.douban.com/subject/2859955/), [4](https://book.douban.com/subject/2883152/).   
+*Gravitation*: [*Relativity*](https://book.douban.com/subject/24542247/); [More](https://book.douban.com/subject/1465335/).  
+*Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/).   
+*Gas Dynamics*: [*Gas Dynamics* 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/12037906/).   
 *High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/5261306/), [2](https://book.douban.com/subject/1778012/), [3](https://book.douban.com/subject/3154999/), [4](https://book.douban.com/subject/4691362/).   
 *Galaxies and Cosmology*: [Galaxies](https://book.douban.com/subject/2188838/), [Cosmology](https://book.douban.com/subject/35170775/); [More: 1](https://book.douban.com/subject/4072985/), [2](https://book.douban.com/subject/3721427/).  
   
