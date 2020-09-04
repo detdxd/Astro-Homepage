@@ -1,9 +1,9 @@
 ***Xiaodong Duan, PhD Student in Astrophysics***
 <br/><br/>
 **About Me:**  
-\$$ \frac{ih}{2\pi} \frac{d}{dt}  | Me \rangle = \hat H | Me \rangle \$$  
-\frac{ih \partial}{2\pi \partial t} \langle Astrophysics | Me \rangle = \hat H | Me \rangle  
-$$  
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
+$$ \frac{ih}{2\pi} \frac{d}{dt}  | Me \rangle = \hat H | Me \rangle \$$  
+$$ \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Astrophysics | Me \rangle = \hat H | Me \rangle $$  
 ...
 <br/>  
 
