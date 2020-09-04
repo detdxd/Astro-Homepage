@@ -1,15 +1,5 @@
 ***Xiaodong Duan, PhD Student in Astrophysics***
 <br/><br/>
-**About Me:**  
-    
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{d}{dt}  | Xiaodong \rangle = \hat H | Xiaodong \rangle">  
-  
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Physics | Xiaodong \rangle = \hat H \langle Physics | Xiaodong \rangle">  
-  
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Person(i) | Xiaodong \rangle = \hat H \langle Person(i) | Xiaodong \rangle">  
-  
-...
-<br/>  
 
 **Research Interests**  
 Astronomy: AGN Feedback and Stellar Feedback; Physics of Gas Mediums(ISM, IGM, CGM, ICM ...).  
@@ -53,8 +43,17 @@ Galaxy Formation and Evolution.
 *SHAO*:  [SHAO Astrophysics](http://astro.shao.cas.cn/), [BH Feedback Group of SHAO](http://cluster.shao.ac.cn/~fguo/index.html).  
 *AS&PS*: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
 *Jobs*: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).  
+  
+<br/>
+**About Me:**  
     
+<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{d}{dt}  | Xiaodong \rangle = \hat H | Xiaodong \rangle">  
+  
+<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Physics | Xiaodong \rangle = \hat H \langle Physics | Xiaodong \rangle">  
+  
+<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Person(i) | Xiaodong \rangle = \hat H \langle Person(i) | Xiaodong \rangle">  
+  
+...
 
- 
 
 
