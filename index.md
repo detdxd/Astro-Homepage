@@ -49,9 +49,9 @@ Galaxy Formation and Evolution.
     
 <img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{d}{dt}  | Xiaodong \rangle = \hat H | Xiaodong \rangle">  
   
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Physics | Xiaodong \rangle = \hat H \langle Physics | Xiaodong \rangle">  
+<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Physics | Xiaodong \rangle = \hat H_{a} \langle Physics | Xiaodong \rangle">  
   
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Being(i) | Xiaodong \rangle = \hat H \langle Being(i) | Xiaodong \rangle">  
+<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Being(i) | Xiaodong \rangle = \hat H_{b} \langle Being(i) | Xiaodong \rangle">  
   
 ...
 
