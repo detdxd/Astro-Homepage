@@ -2,10 +2,9 @@
 <br/><br/>
 **About Me:**  
 <img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{d}{dt}  | Me \rangle = \hat H | Me \rangle">  
+  
 <img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Astrophysics | Me \rangle = \hat H | Me \rangle">  
-
-$$ \frac{ih}{2\pi} \frac{d}{dt}  | Me \rangle = \hat H | Me \rangle $$  
-$$ \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Astrophysics | Me \rangle = \hat H | Me \rangle $$  
+   
 ...
 <br/>  
 
