@@ -51,7 +51,7 @@ Galaxy Formation and Evolution.
   
 <img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Physics | Xiaodong \rangle = \hat H \langle Physics | Xiaodong \rangle">  
   
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Person(i) | Xiaodong \rangle = \hat H \langle Person(i) | Xiaodong \rangle">  
+<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Bio(i) | Xiaodong \rangle = \hat H \langle Bio(i) | Xiaodong \rangle">  
   
 ...
 
