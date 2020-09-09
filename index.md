@@ -49,7 +49,7 @@ Galaxy Formation and Evolution.
     
 <img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{d}{dt}  | Me \rangle = \hat H | Me \rangle">  
   
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Physics | Me \rangle = \hat H_{a} \langle Physics | Me \rangle">  
+<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Universe | Me \rangle = \hat H_{a} \langle Universe | Me \rangle">  
   
 <img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Being(i) | Me \rangle = \hat H_{b} \langle Being(i) | Me \rangle">  
   
