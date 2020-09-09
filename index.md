@@ -30,8 +30,6 @@ Galaxy Formation and Evolution.
 <br/>
 **Note II: Links**  
   
-*Courses*: [OpenStax](https://openstax.org/), [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/), [4](https://book.douban.com/subject/2187612/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html).  
-   
 *Python Tools:* [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
 *Other Tools:* [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
   
@@ -43,6 +41,8 @@ Galaxy Formation and Evolution.
 *SHAO*:  [SHAO Astrophysics](http://astro.shao.cas.cn/), [BH Feedback Group of SHAO](http://cluster.shao.ac.cn/~fguo/index.html).  
 *AS&PS*: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
 *Jobs*: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).  
+  
+*Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/), [4](https://book.douban.com/subject/2187612/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html).  
   
 <br/>
 **About Me:**  
