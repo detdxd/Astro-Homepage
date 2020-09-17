@@ -4,7 +4,7 @@
 **Research Interests**  
 Physics: Physics of Fluids and Plasmas.  
 Methods: Simulation and Semi-Quantitative Analysis.  
-Astronomy: AGN and Stellar Feedback; Physics of Gas Mediums(ISM,IGM,CGM,ICM...).  
+Astronomy: AGN and Stellar Feedback; Astronomical Mediums(ISM,IGM,CGM,ICM...).  
 <br/>
 **Further Interests**  
 High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.  
