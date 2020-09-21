@@ -32,7 +32,7 @@ High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.
 *Python Tools:* [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
 *Other Tools:* [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
   
-*Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [Vox Charta](https://harvard.voxcharta.org/), [ADS](https://ui.adsabs.harvard.edu/).  
+*Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [Vox Charta](https://harvard.voxcharta.org/), [ADS](https://ui.adsabs.harvard.edu/).  
 *Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#), [APS](https://www.aps.org/publications/index.cfm).  
 *Books*: [Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.wiley.com/), [Cambridge](https://www.cambridge.org/core/what-we-publish/textbooks), [pdfdrive](https://www.pdfdrive.com/).  
 *Astro Pictures*: [NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).  
