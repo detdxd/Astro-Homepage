@@ -18,7 +18,7 @@ High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.
   
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).    
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/4610300/).   
-*Gas Dynamics*: [*Gas Dynamics*](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/20379010/), [3](https://book.douban.com/subject/34461444/).   
+*Gas Dynamics*: [*Gas Dynamics*](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/34461444/).   
 *Particles*: [Particle Astrophysics](https://book.douban.com/subject/4691362/).  
 *Gravitation*: [*Relativity*](https://book.douban.com/subject/24542247/); [More](https://book.douban.com/subject/1465335/).  
 *High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/1778012/), [2](https://book.douban.com/subject/3154999/).   
