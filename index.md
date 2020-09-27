@@ -11,7 +11,8 @@ High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.
 
 <br/>
 **Publications**  
-[ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).
+[ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).  
+[OCRID](https://orcid.org/0000-0002-6921-1899).  
 
 <br/>
 **Note I: Basics of Astrophysics**       
