@@ -7,8 +7,8 @@ Physics: Physics of Fluids and Plasmas.
 Methods: Numerical Simulation and Semi-Quantitative Analysis.  
   
 <br/>
-**Further Interests**  
-High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.  
+**More Interests**  
+High Energy Astrophysics; Galaxy Formation and Evolution; Cosmology.  
 
 <br/>
 **Publications**  
@@ -20,7 +20,7 @@ High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.
   
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).       
 *Fluids and Plasmas*: [*Gas Dynamics*](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/34461444/).  
-*Gravitation*: [*Relativity*](https://book.douban.com/subject/3632314/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/1465335/).  
+*Gravitation*: [*Generral Relativity*](https://book.douban.com/subject/3632314/); [More: 1](https://book.douban.com/subject/24542247/), [2](https://book.douban.com/subject/3721427/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/4610300/).  
 *Particles*: [Particle Astrophysics](https://book.douban.com/subject/4691362/).  
 *High Energy Astrophysics*: [*High Energy Astrophysics*](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/1778012/), [2](https://book.douban.com/subject/3154999/).   
@@ -31,9 +31,8 @@ High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.
  
 <br/>
 **Note II: Links**  
-  
-*Python Tools:* [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
-*Other Tools:* [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
+    
+*Simulations:* [EAGLE](http://eagle.strw.leidenuniv.nl/), [IllustrisTNG](http://eagle.strw.leidenuniv.nl/).  
   
 *Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [Vox Charta](https://harvard.voxcharta.org/), [ADS](https://ui.adsabs.harvard.edu/).  
 *Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#), [APS](https://www.aps.org/publications/index.cfm).  
@@ -45,6 +44,9 @@ High Energy Astrophysics; Cosmology; Galaxy Formation and Evolution.
 *Jobs*: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs),  [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp), [CPSF](http://jj.chinapostdoctor.org.cn/website/index.html).  
   
 *Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/), [4](https://book.douban.com/subject/2187612/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html).  
+  
+*Python Tools:* [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
+*Other Tools:* [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
   
 <br/>
 **About Me:**  
