@@ -46,17 +46,5 @@ High Energy Astrophysics; Galaxy Formation and Evolution; Cosmology.
   
 *Python Tools:* [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
 *Other Tools:* [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
-  
-<br/>
-**About Me:**  
-    
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{d}{dt}  | Me \rangle = \hat H | Me \rangle">  
-  
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Universe | Me \rangle = \hat H_{a} \langle Universe | Me \rangle">  
-  
-<img src="https://latex.codecogs.com/png.latex? \frac{ih}{2\pi} \frac{\partial}{\partial t} \langle Being(i) | Me \rangle = \hat H_{b} \langle Being(i) | Me \rangle">  
-  
-...
-
 
 
