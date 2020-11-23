@@ -1,14 +1,16 @@
 ***Xiaodong Duan, PhD Student in Astrophysics***
 <br/><br/>
 
+**Research Fields**  
+High Energy Astrophysics; Galaxy Formation and Evolution. 
+   
+<br/>
+
 **Research Interests**  
 Astronomy: AGN and Stellar Feedback; Astronomical Mediums(ISM,CGM,ICM...)  
 Physics: Physics of Fluids and Plasmas.  
-Methods: Numerical Simulation and Semi-Quantitative Analysis.  
-  
-<br/>
-**More Interests**  
-High Energy Astrophysics; Galaxy Formation and Evolution; Cosmology.  
+Methods: Numerical Simulation and Semi-Quantitative Analysis. 
+ 
 
 <br/>
 **Publications**  
