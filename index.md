@@ -11,7 +11,7 @@ Physics: Physics of Fluids and Plasmas.
 Methods: Numerical Simulation and Semi-Quantitative Analysis.  
 
 <br/> 
-**Hobbies** 
+**Hobbies**  
 Relativity; Quantum Mechanics; Human Body Mechanics.  
 
 <br/>
