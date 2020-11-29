@@ -3,13 +3,12 @@
 
 **Research Fields**  
 High Energy Astrophysics; Galaxy Formation and Evolution. 
-   
-<br/>
 
+<br/>
 **Research Interests**  
 Astronomy: AGN and Stellar Feedback; Astronomical Mediums(ISM,CGM,ICM...)  
 Physics: Physics of Fluids and Plasmas.  
-Methods: Numerical Simulation and Semi-Quantitative Analysis. 
+Methods: Numerical Simulation and Semi-Quantitative Analysis.  
 
 <br/> 
 **Hobbies** 
