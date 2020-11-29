@@ -10,7 +10,10 @@ High Energy Astrophysics; Galaxy Formation and Evolution.
 Astronomy: AGN and Stellar Feedback; Astronomical Mediums(ISM,CGM,ICM...)  
 Physics: Physics of Fluids and Plasmas.  
 Methods: Numerical Simulation and Semi-Quantitative Analysis. 
- 
+
+<br/> 
+**Hobbies**. 
+Relativity; Quantum Mechanics; Human Body Mechanics.  
 
 <br/>
 **Publications**  
