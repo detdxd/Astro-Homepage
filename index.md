@@ -12,7 +12,7 @@ Methods: Numerical Simulation and Semi-Quantitative Analysis.
 
 <br/> 
 **Hobbies**  
-Relativity; Quantum Physics; Biophysics.  
+Relativistic Physics; Quantum Physics; Biophysics.  
 
 <br/>
 **Publications**  
