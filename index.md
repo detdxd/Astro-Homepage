@@ -22,6 +22,8 @@ Relativistic Physics; Quantum Physics; Biophysics.
 <br/>
 **Note I: Basics of Astrophysics**       
   
+*Basic Physics*: [Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/).  
+*Basic Math*: [Basic Training in Mathematics](https://book.douban.com/subject/11906759/), [Probability in Physics](https://book.douban.com/subject/34854842/).  
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).       
 *Fluids and Plasmas*: [*Gas Dynamics*](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/12037906/), [2](https://book.douban.com/subject/34461444/), [3](https://book.douban.com/subject/32956529/).  
 *Gravitation*: [*Generral Relativity*](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/24542247/).  
@@ -46,7 +48,7 @@ Relativistic Physics; Quantum Physics; Biophysics.
 *AS&PS*: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
 *Jobs*: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs),  [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp), [CPSF](http://jj.chinapostdoctor.org.cn/website/index.html).  
   
-*Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html), [3](https://book.douban.com/subject/11906759/), [4](https://book.douban.com/subject/2187612/); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html).  
+*Courses*: [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html).  
   
 *Python Tools:* [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
 *Other Tools:* [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
