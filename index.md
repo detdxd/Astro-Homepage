@@ -23,7 +23,7 @@ Relativistic Physics; Quantum Physics; Biophysics.
 **Note I: Basics of Astrophysics**       
   
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).       
-*Fluids and Plasmas*: [*Gas Dynamics*](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/34461444/), [2](https://book.douban.com/subject/32956529/).  
+*Fluids and Plasmas*: [*Gas Dynamics*](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/12037906/), [2](https://book.douban.com/subject/34461444/), [3](https://book.douban.com/subject/32956529/).  
 *Gravitation*: [*Generral Relativity*](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/24542247/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/4610300/).  
 *Particles*: [Particle Astrophysics](https://book.douban.com/subject/4691362/).  
