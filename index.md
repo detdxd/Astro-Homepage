@@ -22,8 +22,8 @@ Relativistic Physics; Quantum Physics; Biophysics.
 <br/>
 **Note I: Basics of Astrophysics**       
   
+*Basic Math*: [Calculus and Linear Algebra](https://book.douban.com/subject/11906759/), [Probability](https://book.douban.com/subject/34854842/).  
 *Basic Physics*: [Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/).  
-*Basic Math*: [Basic Training in Mathematics](https://book.douban.com/subject/11906759/), [Probability in Physics](https://book.douban.com/subject/34854842/).  
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).       
 *Fluids and Plasmas*: [*Gas Dynamics*](https://book.douban.com/subject/2880185/); [More: 1](https://book.douban.com/subject/12037906/), [2](https://book.douban.com/subject/34461444/), [3](https://book.douban.com/subject/32956529/).  
 *Gravitation*: [*Generral Relativity*](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/24542247/).  
