@@ -20,7 +20,7 @@ Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
 <br/>
-**Note I: Basics of Astrophysics**       
+**Note I: Basic Physics and Astrophysics**       
   
 *Basic Maths*: [Calculus and Linear Algebra](https://book.douban.com/subject/11906759/), [Probability](https://book.douban.com/subject/34854842/).  
 *Basic Physics*: [Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/).  
