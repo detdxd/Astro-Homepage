@@ -1,4 +1,4 @@
-***Xiaodong Duan, PhD Student in Astrophysics***
+***Xiaodong Duan, Crew on the Ship of Astrophysics***
 <br/><br/>
 
 **Research Fields**  
@@ -6,7 +6,7 @@ High Energy Astrophysics; Galaxy Formation and Evolution.
 
 <br/>
 **Research Interests**  
-Astronomy: AGN and Stellar Feedback; Astronomical Mediums(ISM,CGM,ICM...)  
+Astronomy: Galaxy Medium Physics(ISM,CGM,ICM...); High Enenrgy Astrophysics.    
 Physics: Physics of Fluids and Plasmas.  
 Methods: Numerical Simulation and Semi-Quantitative Analysis.  
 
@@ -16,16 +16,15 @@ Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.
 
 <br/>
 **Publications**  
-[ADS Library](https://ui.adsabs.harvard.edu/public-libraries/1ogBPRQcRLSPzvfR2UV-_g).  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
 <br/>
 **Note I: Basic Physics and Astrophysics**       
   
 *Basic Maths*: [Calculus and Linear Algebra](https://book.douban.com/subject/11906759/), [Probability](https://book.douban.com/subject/34854842/).  
-*Basic Physics*: [Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/).  
+*Basic Physics*: [Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/); [More-Chi 1](https://book.douban.com/subject/27041714/), [2](https://book.douban.com/subject/27041717/).  
 *Basic Astrophysics*: [*Astrophysics*-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).       
-*Gas Dynamics*: [*Fluids and Plasmas*](https://book.douban.com/subject/12037906/); [More: 1](https://book.douban.com/subject/2880185/), [2](https://book.douban.com/subject/34461444/), [3](https://book.douban.com/subject/32956529/).  
+*Gas Dynamics*: [*Fluids and Plasmas*](https://book.douban.com/subject/12037906/); [More: 1](https://book.douban.com/subject/2880185/), [2](https://book.douban.com/subject/34461444/),[3](https://book.douban.com/subject/35246886/), [4](https://book.douban.com/subject/32956529/).  
 *Radiation*: [*Radiative Processes*](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/4610300/).  
 *Gravitation*: [*General Relativity*](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/24542247/).   
 *Particles*: [Particle Astrophysics](https://book.douban.com/subject/4691362/).  
@@ -45,7 +44,7 @@ Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.
 *Books*: [Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.wiley.com/), [Cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).  
 *Astro Pictures*: [NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).  
   
-*SHAO*:  [SHAO Astrophysics](http://astro.shao.cas.cn/), [BH Feedback Group of SHAO](http://cluster.shao.ac.cn/~fguo/index.html).  
+*SHAO*:  [Astrophysics Division (SHAO)](http://astro.shao.cas.cn/), [BH Feedback Group (SHAO)](http://cluster.shao.ac.cn/~fguo/index.html), [School of Physics (HNU)].  
 *AS&PS*: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
 *Jobs*: [Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs),  [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp), [CPSF](http://jj.chinapostdoctor.org.cn/website/index.html).   
   
