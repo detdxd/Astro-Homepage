@@ -39,12 +39,12 @@ Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.
 *Codes*: [PLUTO](http://plutocode.ph.unito.it/), [FLASH](http://flash.uchicago.edu/site/flashcode/), [ILGRMHD](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [AREPO](https://arepo-code.org/), [ATHENA++](https://princetonuniversity.github.io/athena/download.html), [ZEUS-MP](https://github.com/bwoshea/ZEUS-MP_2).  
 *Simulations:* [IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/).  
   
-*Papers*: [arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [Vox Charta](https://harvard.voxcharta.org/), [ADS](https://ui.adsabs.harvard.edu/), [INSPIRE](https://inspirehep.net/), [Web of Science](https://apps.webofknowledge.com/).  
+*Papers*: [ADS](https://ui.adsabs.harvard.edu/), [INSPIRE](https://inspirehep.net/), [Web of Science](https://apps.webofknowledge.com/), [arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [Vox Charta](https://harvard.voxcharta.org/).  
 *Journals*: [ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [SC](https://engine.scichina.com/publications), [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#), [APS](https://www.aps.org/publications/index.cfm).  
 *Books*: [Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.wiley.com/), [Cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).  
 *Astro Pictures*: [NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).  
   
-*SHAO*:  [Astrophysics Division (SHAO)](http://astro.shao.cas.cn/), [BH Feedback Group (SHAO)](http://cluster.shao.ac.cn/~fguo/index.html), [School of Physics (HNU)].  
+*SHAO*:  [Astrophysics Division (SHAO)](http://astro.shao.cas.cn/), [BH Feedback Group (SHAO)](http://cluster.shao.ac.cn/~fguo/index.html), [School of Physics (HNU)](https://www.htu.edu.cn/physics/).  
 *AS&PS*: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
 *Jobs*: [Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs),  [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp), [CPSF](http://jj.chinapostdoctor.org.cn/website/index.html).   
   
