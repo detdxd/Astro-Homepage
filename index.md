@@ -44,7 +44,8 @@ Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.
 *Books*: [Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.wiley.com/), [Cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).  
 *Astro Pictures*: [NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).  
   
-*SHAO*:  [Astrophysics Division (SHAO)](http://astro.shao.cas.cn/), [BH Feedback Group (SHAO)](http://cluster.shao.ac.cn/~fguo/index.html), [School of Physics (HNU)](https://www.htu.edu.cn/physics/).  
+*SHAO*:  [Astrophysics Division](http://astro.shao.cas.cn/), [BH Feedback Group](http://cluster.shao.ac.cn/~fguo/index.html).  
+*HNU*:  [School of Physics (HNU)](https://www.htu.edu.cn/physics/), [HPC](https://www.htu.edu.cn/hpcc/).  
 *AS&PS*: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
 *Jobs*: [Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs),  [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp), [CPSF](http://jj.chinapostdoctor.org.cn/website/index.html).   
   
