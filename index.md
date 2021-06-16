@@ -45,7 +45,7 @@ Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.
 *Simulations:* [IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/).  
   
 *Python Tools:* [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).  
-*Other Tools:* [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
+*Other Tools:* [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [WebPlotDigitizer](https://apps.automeris.io/wpd/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).  
   
 *HNU*:  [School of Physics](https://www.htu.edu.cn/physics/), [HPCC](https://www.htu.edu.cn/hpcc/).  
 *SHAO*:  [Astrophysics Division](http://astro.shao.cas.cn/), [BH Feedback Group](http://cluster.shao.ac.cn/~fguo/index.html).  
