@@ -19,7 +19,7 @@ Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
 <br/>
-**Experience** 
+**Experience**  
 Employee(2021.7-):  [School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).  
 PhD (2021.6): [BH Feedback Group](http://cluster.shao.ac.cn/~fguo/index.html), [Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/).  
 Transit (2015.9-2016.6): [Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).  
