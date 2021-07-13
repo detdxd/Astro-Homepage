@@ -50,7 +50,7 @@ Books:  *[Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.w
 Astro Pictures:  *[NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).*  
   
 Codes:  *[PLUTO](http://plutocode.ph.unito.it/), [FLASH](http://flash.uchicago.edu/site/flashcode/), [ILGRMHD](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [AREPO](https://arepo-code.org/), [ATHENA++](https://princetonuniversity.github.io/athena/download.html), [ZEUS-MP](https://github.com/bwoshea/ZEUS-MP_2).*  
-Simulations:* [IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/).*  
+Simulations: *[IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/).*  
   
 Python Tools:  *[Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).*  
 Other Tools:  *[Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [WebPlotDigitizer](https://apps.automeris.io/wpd/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).*  
