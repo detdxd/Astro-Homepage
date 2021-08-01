@@ -6,13 +6,13 @@ High Energy Astrophysics; Galaxy Formation and Evolution.
 
 <br/>
 **Research Interests**  
-Astronomy: *AGN and Stellar Feedback; Galaxy Medium Physics(ISM,CGM,ICM...).*    
+Astronomy: *AGN and Stellar Feedback; Galaxy Medium Physics (ISM,CGM,ICM...).*    
 Physics: *Physics of Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 
 <br/> 
 **Hobbies**  
-Nonlinear Physics; Relativistic Physics; Quantum Physics; Biophysics.  
+Atmospheric physics; Nonlinear Physics; Relativistic Physics; Quantum Physics.  
 
 <br/>
 **Publications**  
