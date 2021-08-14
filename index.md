@@ -40,7 +40,7 @@ High Energy Astrophysics:  *[High Energy Astrophysics](https://book.douban.com/s
 Galaxies and Cosmology:  *[Galaxies](https://book.douban.com/subject/4072985/), [Cosmology](https://book.douban.com/subject/35170775/); [More: 1](https://book.douban.com/subject/2188838/), [2](https://book.douban.com/subject/3721427/).*  
 Numerical Methods:  *[Numerical Methods](https://book.douban.com/subject/2869469/); [More: 1](https://book.douban.com/subject/10580010/), [2](https://book.douban.com/subject/2877019/), [3](https://book.douban.com/subject/4230082/).*  
   
-More References:  *[Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Zhao](https://book.douban.com/series/4089?page=1); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html), [Zingale](https://zingale.github.io/classes.html), [KouShare](https://www.koushare.com).*  
+More References:  *[Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Zhao](https://book.douban.com/series/4089?page=1); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
  
 <br/>
 **Note II: Links**  
@@ -53,8 +53,10 @@ Astro Pictures:  *[NASA](https://www.nasa.gov/), [NASA.astro-picture](https://ap
 Codes:  *[PLUTO](http://plutocode.ph.unito.it/), [FLASH](http://flash.uchicago.edu/site/flashcode/), [ILGRMHD](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [AREPO](https://arepo-code.org/), [ATHENA++](https://princetonuniversity.github.io/athena/download.html), [ZEUS-MP](https://github.com/bwoshea/ZEUS-MP_2).*  
 Simulations: *[IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/).*  
   
-Python Tools:  *[Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/); [Matplot](https://matplotlib.org/); [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).*  
-Other Tools:  *[Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [WebPlotDigitizer](https://apps.automeris.io/wpd/); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).*  
+Python Tools:  *[Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/);  [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).*  
+Plot Tools:  *[Matplot](https://matplotlib.org/); [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [WebPlotDigitizer](https://apps.automeris.io/wpd/).*  
+Learning Tools: *[Xue8](https://www.xue8nav.com); [KouShare](https://www.koushare.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).*  
+Other Tools: *[Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5).*  
   
 AS&PS:  *[CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).*  
 Jobs:  *[Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs),  [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).*   
