@@ -31,16 +31,16 @@ B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https:/
   
 Basic Maths:  *[Calculus and Linear Algebra](https://book.douban.com/subject/11906759/), [Probability](https://book.douban.com/subject/34854842/).*  
 Basic Physics:  *[Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/); [More-Chi 1](https://book.douban.com/subject/27041714/), [2](https://book.douban.com/subject/27041717/).*  
-Basic Astrophysics:  *[Astrophysics-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/); [More](https://movie.douban.com/subject/10464515/).*       
-Gas Dynamics:  *[Fluids and Plasmas](https://book.douban.com/subject/12037906/); [More: 1](https://book.douban.com/subject/2880185/), [2](https://book.douban.com/subject/34461444/), [3](https://book.douban.com/subject/32956529/), [4](https://book.douban.com/subject/35246886/).*  
+Basic Astrophysics:  *[Astrophysics-Chi](https://book.douban.com/subject/3353501/), [Eng](https://book.douban.com/subject/20558769/).*       
+Gas Dynamics:  *[Fluids and Plasmas](https://book.douban.com/subject/12037906/); [More](https://book.douban.com/subject/2880185/).*  
 Radiation:  *[Radiative Processes](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/4610300/).*  
 Gravitation:  *[General Relativity](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/24542247/).*   
-Particles:  *[Particle Astrophysics](https://book.douban.com/subject/4691362/).*  
-High Energy Astrophysics:  *[High Energy Astrophysics](https://book.douban.com/subject/27661675/);  [More: 1](https://book.douban.com/subject/1778012/), [2](https://book.douban.com/subject/3154999/).*   
-Galaxies and Cosmology:  *[Galaxies](https://book.douban.com/subject/4072985/), [Cosmology](https://book.douban.com/subject/35170775/); [More: 1](https://book.douban.com/subject/2188838/), [2](https://book.douban.com/subject/3721427/).*  
-Numerical Methods:  *[Numerical Methods](https://book.douban.com/subject/2869469/); [More: 1](https://book.douban.com/subject/10580010/), [2](https://book.douban.com/subject/2877019/), [3](https://book.douban.com/subject/4230082/).*  
+Particles:  *[Particle Astrophysics](https://book.douban.com/subject/4691362/); [More](https://book.douban.com/subject/6086649/).*  
+High Energy Astrophysics:  *[High Energy Astrophysics](https://book.douban.com/subject/27661675/);  [More](https://book.douban.com/subject/5261306/).*   
+Galaxies and Cosmology:  *[Galaxies](https://book.douban.com/subject/4072985/), [Cosmology](https://book.douban.com/subject/35170775/).*  
+Numerical Methods:  *[Numerical Methods 1](https://book.douban.com/subject/10580010/), [2](https://book.douban.com/subject/2869469/).*  
   
-More References:  *[Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Zhao](https://book.douban.com/series/4089?page=1); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
+More:  *[Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Zhao](https://book.douban.com/series/4089?page=1); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
  
 <br/>
 **Note II: Links**  
