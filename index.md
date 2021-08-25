@@ -40,7 +40,7 @@ High Energy Astrophysics:  *[High Energy Astrophysics](https://book.douban.com/s
 Galaxies and Cosmology:  *[Galaxies](https://book.douban.com/subject/4072985/), [Cosmology](https://book.douban.com/subject/35170775/).*  
 Numerical Methods:  *[Numerical Methods 1](https://book.douban.com/subject/10580010/), [2](https://book.douban.com/subject/2869469/).*  
   
-More:  *[Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Zhao](https://book.douban.com/series/4089?page=1); [Liu](https://book.douban.com/subject/1536321/); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
+More:  *[Astro-Books](https://www.douban.com/doulist/112364872/); [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
  
 <br/>
 **Note II: Links**  
