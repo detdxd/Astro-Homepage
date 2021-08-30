@@ -1,11 +1,11 @@
 ***Xiaodong Duan, Crew on the Ship of Astrophysics***
 <br/><br/>
 
-**Research Fields**  
+**Recent Research Fields**  
 High Energy Astrophysics; Galaxy Formation and Evolution. 
 
 <br/>
-**Research Interests**  
+**Recent Research Interests**  
 Astronomy: *AGN and Stellar Feedback; Gastrophysics (ISM,CGM,ICM...).*    
 Physics: *Physics of Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
