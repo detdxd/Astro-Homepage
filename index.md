@@ -2,11 +2,11 @@
 <br/><br/>
 
 **Recent Research Fields**  
-High Energy Astrophysics; Galaxy Formation and Evolution. 
+Gastrophysics; High Energy Astrophysics; Galaxy Formation and Evolution. 
 
 <br/>
 **Recent Research Interests**  
-Astronomy: *AGN and Stellar Feedback; Gastrophysics (ISM,CGM,ICM...).*    
+Astronomy: *AGN and Stellar Feedback; ISM,CGM,ICM...*    
 Physics: *Physics of Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 
