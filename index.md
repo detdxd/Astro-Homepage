@@ -53,7 +53,8 @@ Astro Pictures:  *[NASA](https://www.nasa.gov/), [NASA.astro-picture](https://ap
 Codes:  *[PLUTO](http://plutocode.ph.unito.it/), [FLASH](http://flash.uchicago.edu/site/flashcode/), [ILGRMHD](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [AREPO](https://arepo-code.org/), [ATHENA++](https://princetonuniversity.github.io/athena/download.html), [ZEUS-MP](https://github.com/bwoshea/ZEUS-MP_2).*  
 Simulations: *[IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/), [Skies & Universes](http://skiesanduniverses.iaa.es/).*  
   
-Python Tools:  *[Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/);  [Scipy](https://www.scipy.org/); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).*  
+Astro Tools: *[Cloudy](https://gitlab.nublado.org/cloudy/cloudy); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).*  
+Python Tools:  *[Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/);  [Scipy](https://www.scipy.org/).*  
 Plot Tools:  *[Matplot](https://matplotlib.org/); [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [WebPlotDigitizer](https://apps.automeris.io/wpd/).*  
 Learning Tools: *[Xue8](https://www.xue8nav.com); [KouShare](https://www.koushare.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).*  
 Other Tools: *[Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5).*  
