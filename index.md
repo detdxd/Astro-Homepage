@@ -40,7 +40,7 @@ High Energy Astrophysics:  *[High Energy Astrophysics](https://book.douban.com/s
 Galaxies and Cosmology:  *[Galaxies](https://book.douban.com/subject/4072985/), [Cosmology](https://book.douban.com/subject/35170775/).*  
 Numerical Methods:  *[Numerical Methods 1](https://book.douban.com/subject/10580010/), [2](https://book.douban.com/subject/2869469/).*  
   
-More:  *[Astro-Books](https://www.douban.com/doulist/112364872/); [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
+More:  *[Astro-MOOC](https://www.icourse163.org); [KouShare](https://www.koushare.com); [Astro-Books](https://www.douban.com/doulist/112364872/); [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
  
 <br/>
 **Note II: Links**  
@@ -56,7 +56,7 @@ Simulations: *[IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle
 Astro Tools: *[Cloudy](https://gitlab.nublado.org/cloudy/cloudy); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).*  
 Python Tools:  *[Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/);  [Scipy](https://www.scipy.org/).*  
 Plot Tools:  *[Matplot](https://matplotlib.org/); [Visit](https://wci.llnl.gov/simulation/computer-codes/visit); [Paraview](https://www.paraview.org/); [WebPlotDigitizer](https://apps.automeris.io/wpd/).*  
-Learning Tools: *[Xue8](https://www.xue8nav.com); [KouShare](https://www.koushare.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).*  
+Learning Tools: *[Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).*  
 Other Tools: *[Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5).*  
   
 AS&PS:  *[CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).*  
