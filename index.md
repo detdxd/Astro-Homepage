@@ -12,8 +12,7 @@ Methods: *Numerical Simulation and Semi-Quantitative Analysis.*
 
 <br/> 
 **Hobbies**  
-Atmospheric Physics; Geophysics; Biophysics.  
-Nonlinear Physics; Relativistic Physics; Quantum Physics.  
+Nonlinear Physics; Relativistic Physics; Quantum Physics; Geophysics; Biophysics.  
 
 <br/>
 **Publications**  
