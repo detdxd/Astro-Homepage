@@ -11,7 +11,7 @@ Physics: *Physics of Fluids and Plasmas.*
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 
 <br/>
-**Teaching Interests**.   
+**Teaching Interests**   
 Introduction to Astrophysics; Classical Fields Theory: From Electrodynamics to General Relativity. 
 
 <br/> 
