@@ -12,7 +12,9 @@ Methods: *Numerical Simulation and Semi-Quantitative Analysis.*
 
 <br/>
 **Teaching Interests**   
-Introduction to Astrophysics; Classical Fields Theory: From Electrodynamics to General Relativity. 
+Fundamentals of Physics;
+Introduction to Astrophysics;  
+Classical Fields Theory: From Electrodynamics to General Relativity. 
 
 <br/> 
 **Hobbies**  
