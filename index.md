@@ -40,10 +40,10 @@ Basic Physics:  *[Fundamentals of Physics-Chi 1](https://book.douban.com/subject
 Basic Astrophysics:  *[Introduction to Astrophysics-Chi 1](https://book.douban.com/subject/3353501/), [2](https://book.douban.com/subject/1707048/); [Eng 1](https://book.douban.com/subject/2871304/), [2](https://book.douban.com/subject/30165817/).*       
 Gas Dynamics:  *[Fluids and Plasmas](https://book.douban.com/subject/12037906/); [More](https://book.douban.com/subject/2880185/).*  
 Radiation:  *[Radiative Processes](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/3026284/).*  
-Gravitation:  *[General Relativity](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/24542247/).*   
+Gravitation:  *[General Relativity](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/1437285/).*   
 Particles:  *[Particle Astrophysics](https://book.douban.com/subject/4691362/); [More](https://book.douban.com/subject/6086649/).*  
 High Energy Astrophysics:  *[High Energy Astrophysics](https://book.douban.com/subject/27661675/);  [More](https://book.douban.com/subject/5261306/).*   
-Galaxies and Cosmology:  *[Galaxies](https://book.douban.com/subject/4072985/), [Cosmology](https://book.douban.com/subject/35170775/).*  
+Galaxies and Cosmology:  *[Galaxies 1](https://book.douban.com/subject/2188838/), [2](https://book.douban.com/subject/4072985/); [Cosmology](https://book.douban.com/subject/35170775/).*  
 Numerical Methods:  *[CFD 1](https://book.douban.com/subject/33203339/), [2](https://book.douban.com/subject/2869469/).*  
   
 More:  *[MOOC](https://www.icourse163.org); [KouShare](https://www.koushare.com); [Astro-Books](https://www.douban.com/doulist/112364872/); [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
