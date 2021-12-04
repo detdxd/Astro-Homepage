@@ -12,7 +12,7 @@ Methods: *Numerical Simulation and Semi-Quantitative Analysis.*
 
 <br/>
 **Teaching Interests**   
-Fundamentals of Physics;
+Fundamentals of Physics;  
 Introduction to Astrophysics;  
 Classical Fields Theory: From Electrodynamics to General Relativity. 
 
@@ -36,10 +36,10 @@ B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https:/
 **Note I: Basic Physics and Astrophysics**       
   
 Basic Maths:  *[Calculus and Linear Algebra](https://book.douban.com/subject/11906759/), [Probability](https://book.douban.com/subject/34854842/).*  
-Basic Physics:  *[Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/), [3](https://book.douban.com/subject/34854799/); [More 1](https://book.douban.com/subject/3561811/), [2](https://book.douban.com/subject/3606469/), [3](https://book.douban.com/subject/1536321/).*  
-Basic Astrophysics:  *[Astrophysics](https://book.douban.com/subject/3353501/); [More 1](https://book.douban.com/subject/2871304/), [2](https://book.douban.com/subject/30165817/).*       
+Basic Physics:  *[Fundamentals of Physics-Chi 1](https://book.douban.com/subject/3561811/), [2](https://book.douban.com/subject/3606469/), [3](https://book.douban.com/subject/1536321/); [Eng 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/), [3](https://book.douban.com/subject/34854799/).*  
+Basic Astrophysics:  *[Introduction to Astrophysics-Chi 1](https://book.douban.com/subject/3353501/), [2](https://book.douban.com/subject/1707048/); [Eng 1](https://book.douban.com/subject/2871304/), [2](https://book.douban.com/subject/30165817/).*       
 Gas Dynamics:  *[Fluids and Plasmas](https://book.douban.com/subject/12037906/); [More](https://book.douban.com/subject/2880185/).*  
-Radiation:  *[Radiative Processes](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/4610300/).*  
+Radiation:  *[Radiative Processes](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/3026284/).*  
 Gravitation:  *[General Relativity](https://book.douban.com/subject/2864152/); [More](https://book.douban.com/subject/24542247/).*   
 Particles:  *[Particle Astrophysics](https://book.douban.com/subject/4691362/); [More](https://book.douban.com/subject/6086649/).*  
 High Energy Astrophysics:  *[High Energy Astrophysics](https://book.douban.com/subject/27661675/);  [More](https://book.douban.com/subject/5261306/).*   
