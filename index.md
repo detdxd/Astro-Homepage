@@ -36,7 +36,7 @@ B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https:/
 **Note I: Basic Physics and Astrophysics**       
   
 Basic Maths:  *[Calculus and Linear Algebra](https://book.douban.com/subject/11906759/), [Probability](https://book.douban.com/subject/34854842/).*  
-Basic Physics:  *[Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/); [More-Chi](https://book.douban.com/subject/1536321/).*  
+Basic Physics:  *[Fundamentals of Physics 1](https://book.douban.com/subject/25866680/), [2](https://book.douban.com/subject/26877960/), [3](https://book.douban.com/subject/34854799/); [More 1](https://book.douban.com/subject/3561811/), [2](https://book.douban.com/subject/3606469/), [3](https://book.douban.com/subject/1536321/).*  
 Basic Astrophysics:  *[Astrophysics](https://book.douban.com/subject/3353501/); [More 1](https://book.douban.com/subject/2871304/), [2](https://book.douban.com/subject/30165817/).*       
 Gas Dynamics:  *[Fluids and Plasmas](https://book.douban.com/subject/12037906/); [More](https://book.douban.com/subject/2880185/).*  
 Radiation:  *[Radiative Processes](https://book.douban.com/subject/1761105/); [More](https://book.douban.com/subject/4610300/).*  
