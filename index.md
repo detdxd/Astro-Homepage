@@ -22,9 +22,9 @@ Nonlinear Physics; Relativistic Astrophysics; Particle Astrophysics.
 
 
 <br/>
-**Publications**  
+**Opuses**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
-
+[Douban](https://www.douban.com/people/detdxd/notes?_i=4057118ibncP5v).
 <br/>
 **Experience**  
 Faculty (2021.7-):  *[School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).*  
