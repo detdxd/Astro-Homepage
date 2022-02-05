@@ -18,16 +18,11 @@ Classical Fields Theory: From Electrodynamics to General Relativity.
 
 <br/> 
 **Hobbies**  
-Nonlinear Physics; Relativistic Astrophysics; Particle Astrophysics.  
-Writing; Kungfu.  
+Nonlinear Physics; Relativistic Astrophysics; Particle Astrophysics.   
 
 <br/>
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
-  
-<br/>  
-**Opuses**  
-[Douban](https://www.douban.com/people/detdxd/notes?_i=4057118ibncP5v).  
 
 <br/>
 **Experience**  
@@ -55,7 +50,7 @@ Plot Tools:  *[Matplot](https://matplotlib.org/); [yt](https://yt-project.org/);
 Learning Tools: *[Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).*  
 Other Tools: *[Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5).*  
   
-Courses:  *[MOOC](https://www.icourse163.org); [KouShare](https://www.koushare.com); [Textbooks](https://www.douban.com/doulist/112364872/); [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
+Courses:  *[Textbooks](https://www.douban.com/doulist/112364872/); [MOOC](https://www.icourse163.org); [KouShare](https://www.koushare.com); [Feynman](http://www.feynmanlectures.caltech.edu/info/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html); [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html); [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy](http://astro.tsinghua.edu.cn/~xbai/index.html); [Zingale](https://zingale.github.io/classes.html).*  
   
 AS&PS:  *[CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).*  
 Jobs:  *[Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs),  [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).*   
