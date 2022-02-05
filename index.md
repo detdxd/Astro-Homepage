@@ -19,13 +19,14 @@ Classical Fields Theory: From Electrodynamics to General Relativity.
 <br/> 
 **Hobbies**  
 Nonlinear Physics; Relativistic Astrophysics; Particle Astrophysics.  
-Writing; Kungfu.
+Writing; Kungfu.  
+
 <br/>
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
   
 <br/>  
-**Opuses**
+**Opuses**  
 [Douban](https://www.douban.com/people/detdxd/notes?_i=4057118ibncP5v).  
 
 <br/>
