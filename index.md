@@ -1,4 +1,5 @@
-***Xiaodong Duan, A Crew Member on the Spaceship of Astrophysics***
+***Xiaodong Duan,   
+A Crew Member on the Spaceship of Astrophysics***.  
 <br/><br/>
 
 **Recent Research Fields**  
@@ -12,9 +13,9 @@ Methods: *Numerical Simulation and Semi-Quantitative Analysis.*
 
 <br/>
 **Teaching Interests**   
-Fundamentals of Physics;  
+Fundamentals of Physics;   
 Introduction to Astrophysics;  
-Classical Fields Theory: From Electrodynamics to General Relativity. 
+Classical Fields Theory: From Electrodynamics to General Relativity.   
 
 <br/> 
 **Hobbies**  
