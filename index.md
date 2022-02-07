@@ -2,9 +2,6 @@
 A Crew Member on the Ship of Astrophysics***.  
 <br/>
 
-**Recent Research Fields**  
-High Energy Astrophysics; Galaxy Formation and Evolution.  
-<br/>
 **Recent Research Interests**  
 Astronomy: *AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*    
 Physics: *Physics of Fluids and Plasmas.*  
