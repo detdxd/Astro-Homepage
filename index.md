@@ -3,25 +3,18 @@ A Crew Member on the Ship of Astrophysics***.
 <br/>
 
 **Recent Research Fields**  
-High Energy Astrophysics; Galaxy Formation and Evolution. 
+High Energy Astrophysics; Galaxy Formation and Evolution.  
 <br/>
-
 **Recent Research Interests**  
 Astronomy: *AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*    
 Physics: *Physics of Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
-
 **Teaching Interests**   
 Fundamentals of Physics;   
 Introduction to Astrophysics;  
 Classical Fields Theory: From Electrodynamics to General Relativity.   
-<br/> 
-
-**Hobbies**  
-Nonlinear Physics; Relativistic Astrophysics; Particle Astrophysics.   
 <br/>
-
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
 <br/>
