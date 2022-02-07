@@ -1,5 +1,5 @@
 ***Xiaodong Duan,   
-A Crew Member on the Spaceship of Astrophysics***.  
+A Crew Member on the Ship of Astrophysics***.  
 <br/><br/>
 
 **Recent Research Fields**  
