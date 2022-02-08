@@ -10,7 +10,7 @@ Methods: *Numerical Simulation and Semi-Quantitative Analysis.*
 **Teaching Interests**   
 Fundamentals of Physics;   
 Introduction to Astrophysics;  
-Classical Fields Theory: From Electrodynamics to General Relativity.   
+Classical Field Theory: From Electrodynamics to General Relativity.   
 <br/>
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
