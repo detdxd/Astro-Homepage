@@ -8,9 +8,11 @@ Physics: *Physics of Fluids and Plasmas.*
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
 **Teaching Interests**   
-Fundamentals of Physics;   
+Fundamentals of Physics;    
 Introduction to Astrophysics;  
-Classical Field Theory: From Electrodynamics to General Relativity.   
+Classical Field Theory: From Electrodynamics to General Relativity；   
+Physics of Fluids and Plasmas.  
+
 <br/>
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
