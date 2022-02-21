@@ -7,11 +7,10 @@ Astronomy: *AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*
 Physics: *Physics of Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
-**Teaching Interests**   
+**Teaching**   
 Fundamentals of Physics;    
 Introduction to Astrophysics;  
-Classical Field Theory: From Electrodynamics to General Relativity；   
-Physics of Fluids and Plasmas.  
+Electrodynamics.
 
 <br/>
 **Publications**  
