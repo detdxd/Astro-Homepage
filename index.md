@@ -8,9 +8,9 @@ Physics: *Physics of Fluids and Plasmas.*
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
 **Teaching**   
-Fundamentals of Physics;    
-Introduction to Astrophysics;  
-Electrodynamics.
+Fundamentals of Physics;  
+Electrodynamics;  
+Introduction to Astrophysics.  
 
 <br/>
 **Publications**  
