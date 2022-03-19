@@ -7,9 +7,8 @@ Astronomy: *AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*
 Physics: *Physics of Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
-**Teaching**   
-Fundamentals of Physics;  
-Electrodynamics;  
+**Teaching Areas**   
+Fundamentals of Physics (especially Electrodynamics);  
 Introduction to Astrophysics.  
 
 <br/>
