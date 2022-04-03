@@ -22,7 +22,7 @@ Ph.D (2021.6):  *[BH Feedback Group](http://cluster.shao.ac.cn/~fguo/index.html)
 Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).*  
 B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
 <br/>
-***
+---
 
 **Note: Links**  
   
