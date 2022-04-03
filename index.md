@@ -4,7 +4,7 @@ A Crew Member on the Ship of Astrophysics***.
 
 **Recent Research Interests**  
 Astronomy: *AGN jet; AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*    
-Physics: *Physics of Fluids and Plasmas in astrophysical environments.*  
+Physics: *Physics of Fluids and Plasmas in Astrophysical Environments.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
 **Teaching Areas**   
@@ -34,12 +34,7 @@ Codes-A:  *[PLUTO](http://plutocode.ph.unito.it/), [FLASH](http://flash.uchicago
 Codes-B:  *[Enzo](https://enzo-project.org/), [AREPO](https://arepo-code.org/), [RAMSES](https://bitbucket.org/rteyssie/ramses/src/master/), [CONCEPT](https://github.com/jmd-dk/concept).*  
 Codes-C:  *[BHAC](https://bhac.science/), [ILGRMHD](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [ATHENA++](https://princetonuniversity.github.io/athena/download.html).*  
 Simulations: *[IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/), [Skies & Universes](http://skiesanduniverses.iaa.es/).*  
-  
-Ob-HighE1: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home); [chandra](https://chandra.harvard.edu/); [erosita](https://erosita.mpe.mpg.de/); [hxmt](http://hxmtweb.ihep.ac.cn/); [hubs](http://hubs.phys.tsinghua.edu.cn/);  
-Ob-HighE2: [fermi](https://fermi.gsfc.nasa.gov/);  [lhaaso](http://english.ihep.cas.cn/lhaaso/); [dampe](http://pmo.cas.cn/dampe/kycg/);  
-Ob-Optic: [sdss](https://www.sdss.org/); [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html); [csst](http://nao.cas.cn/csst/);  
-Ob-Radio: [fast](https://fast.bao.ac.cn/); [alma](https://www.eso.org/public/teles-instr/alma/); [ska](https://www.skatelescope.org/the-ska-project/);  
-Ob-GravW: [ligo](https://www.ligo.org/); [lisa](https://lisa.nasa.gov/).  
+Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home); [chandra](https://chandra.harvard.edu/); [erosita](https://erosita.mpe.mpg.de/); [hxmt](http://hxmtweb.ihep.ac.cn/); [hubs](http://hubs.phys.tsinghua.edu.cn/); | [fermi](https://fermi.gsfc.nasa.gov/);  [lhaaso](http://english.ihep.cas.cn/lhaaso/); [dampe](http://pmo.cas.cn/dampe/kycg/); |  [sdss](https://www.sdss.org/); [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html); [csst](http://nao.cas.cn/csst/); | [fast](https://fast.bao.ac.cn/); [alma](https://www.eso.org/public/teles-instr/alma/); [ska](https://www.skatelescope.org/the-ska-project/); | [ligo](https://www.ligo.org/); [lisa](https://lisa.nasa.gov/).  
 
 
 Astro Tools: *[Cloudy](https://gitlab.nublado.org/cloudy/cloudy); [Atropy](https://www.astropy.org/); [AtomDB](http://www.atomdb.org/).*  
