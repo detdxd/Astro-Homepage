@@ -3,7 +3,7 @@ A Crew Member on the Ship of Astrophysics***.
 <br/>
 
 **Recent Research Interests**  
-Astronomy: *AGN and Stellar Feedback; Gastrophysics: CGM,ICM...; AGN jet*    
+Astronomy: *AGN jet; AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*    
 Physics: *Physics of Fluids and Plasmas in astrophysical environments.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
