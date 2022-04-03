@@ -3,13 +3,13 @@ A Crew Member on the Ship of Astrophysics***.
 <br/>
 
 **Recent Research Interests**  
-Astronomy: *AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*    
-Physics: *Physics of Fluids and Plasmas.*  
+Astronomy: *AGN and Stellar Feedback; Gastrophysics: CGM,ICM...; AGN jet*    
+Physics: *Physics of Fluids and Plasmas in astrophysical environments.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
 **Teaching Areas**   
 Fundamentals of Physics - Electrodynamics;  
-Introduction to Astrophysics.  
+Astrophysics - Introduction to Astrophysics.  
 
 <br/>
 **Publications**  
@@ -25,8 +25,8 @@ B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https:/
 
 **Note: Links**  
   
-Papers:  *[ADS](https://ui.adsabs.harvard.edu/), [INSPIRE](https://inspirehep.net/), [Web of Science](https://apps.webofknowledge.com/), [arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [Vox Charta](https://harvard.voxcharta.org/), [sci-hub](https://sci-hub.se/).*  
-Journals:  *[ARAA](https://www.annualreviews.org/journal/astro), [AAS.apj](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Sciengine](https://www.sciengine.com/), [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#), [APS](https://www.aps.org/publications/index.cfm).*  
+Papers:  *[arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [ADS](https://ui.adsabs.harvard.edu/), [INSPIRE](https://inspirehep.net/), [Web of Science](https://apps.webofknowledge.com/),  [Vox Charta](https://harvard.voxcharta.org/), [sci-hub](https://sci-hub.se/).*  
+Journals:  *[ARAA](https://www.annualreviews.org/journal/astro), [ApJ](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [Sciengine](https://www.sciengine.com/), [APS](https://www.aps.org/publications/index.cfm), [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#).*  
 Books:  *[Springer](https://link.springer.com/), [Wiley](https://onlinelibrary.wiley.com/), [Cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).*  
 Astro Pictures:  *[NASA](https://www.nasa.gov/), [NASA.astro-picture](https://apod.nasa.gov/apod/).*  
   
@@ -35,7 +35,8 @@ Codes-B:  *[Enzo](https://enzo-project.org/), [AREPO](https://arepo-code.org/), 
 Codes-C:  *[BHAC](https://bhac.science/), [ILGRMHD](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html), [ATHENA++](https://princetonuniversity.github.io/athena/download.html).*  
 Simulations: *[IllustrisTNG](https://www.tng-project.org/), [EAGLE](http://eagle.strw.leidenuniv.nl/), [FIRE](https://fire.northwestern.edu/), [Skies & Universes](http://skiesanduniverses.iaa.es/).*  
   
-Ob-HighE: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home); [chandra](https://chandra.harvard.edu/); [fermi](https://fermi.gsfc.nasa.gov/); [erosita](https://erosita.mpe.mpg.de/); [lhaaso](http://english.ihep.cas.cn/lhaaso/); [dampe](http://pmo.cas.cn/dampe/kycg/); [hxmt](http://hxmtweb.ihep.ac.cn/); [hubs](http://hubs.phys.tsinghua.edu.cn/);  
+Ob-HighE1: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home); [chandra](https://chandra.harvard.edu/); [erosita](https://erosita.mpe.mpg.de/); [hxmt](http://hxmtweb.ihep.ac.cn/); [hubs](http://hubs.phys.tsinghua.edu.cn/);  
+Ob-HighE2: [fermi](https://fermi.gsfc.nasa.gov/);  [lhaaso](http://english.ihep.cas.cn/lhaaso/); [dampe](http://pmo.cas.cn/dampe/kycg/);  
 Ob-Optic: [sdss](https://www.sdss.org/); [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html); [csst](http://nao.cas.cn/csst/);  
 Ob-Radio: [fast](https://fast.bao.ac.cn/); [alma](https://www.eso.org/public/teles-instr/alma/); [ska](https://www.skatelescope.org/the-ska-project/);  
 Ob-GravW: [ligo](https://www.ligo.org/); [lisa](https://lisa.nasa.gov/).  
