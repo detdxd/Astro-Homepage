@@ -46,7 +46,7 @@ Learning: *[Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [
 AS&PS:  *[CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).*  
 Jobs:  *[Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).*   
   
-HNU:  [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action), [NSFC](https://www.nsfc.gov.cn/).
+HNU:  [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action), [NSFC](https://www.nsfc.gov.cn/).
 
 
 
