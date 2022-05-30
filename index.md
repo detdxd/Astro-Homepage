@@ -7,7 +7,7 @@ Physics: *Astrophysical Fluids and Plasmas.*
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
 **Teaching Areas**   
-Physics: Electrodynamics;  
+Physics: College Physics；Electrodynamics;  
 Astrophysics: Introduction to Astrophysics.  
 
 <br/>
