@@ -6,7 +6,7 @@ Astronomy: *AGN jet; AGN and Stellar Feedback; Gastrophysics: CGM,ICM...*
 Physics: *Astrophysical Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
-**Teaching Areas**   
+**Teaching**   
 Physics: College Physics；Electrodynamics;  
 Astrophysics: Introduction to Astrophysics.  
 
