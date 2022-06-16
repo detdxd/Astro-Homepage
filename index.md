@@ -17,7 +17,7 @@ Astrophysics: Introduction to Astrophysics.
 
 **Experience**  
 Faculty (2021.7-):  *[School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).*  
-Ph.D (2021.6):  *[BH Feedback Group](http://cluster.shao.ac.cn/~fguo/index.html), [Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/).*  
+Ph.D (2021.6):  *[BH Feedback Group](http://cluster.shao.ac.cn/~fguo/index.html), [Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/).*  
 Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).*  
 B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
 <br/>
