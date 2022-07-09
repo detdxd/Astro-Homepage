@@ -2,7 +2,7 @@
 <br/>
 
 **Recent Research Interests**  
-Astronomy: *AGN jet & Cosmic ray, AGN & Stellar Feedback, ICM & CGM...*    
+Astronomy: *AGN jet, AGN & Stellar Feedback, ICM & CGM...*    
 Physics: *Astrophysical Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>
@@ -17,7 +17,7 @@ Astrophysics: *Introduction to Astrophysics; Research Training on Astrophysics.*
 
 **Experience**  
 Faculty (2021.7-):  *[School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).*  
-Ph.D (2021.6):  *[BH Feedback Group](http://cluster.shao.ac.cn/~fguo/index.html), [Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/).*  
+Ph.D (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/).*  
 Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).*  
 B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
 <br/>
@@ -25,11 +25,12 @@ B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https:/
 ***  
 
 **Note: Links**  
-  
-Lectures: [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past); [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
+    
+ Lectures: [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past); [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
 Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://astro.tsinghua.edu.cn/~xbai/index.html), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html).  
-Books:  [textbooks](https://www.douban.com/doulist/112364872/); [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).  
+Books:  [textbooks](https://www.douban.com/doulist/112364872/); [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).    
   
+
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [zenodo](https://zenodo.org/), [ads](https://ui.adsabs.harvard.edu/), [inspire](https://inspirehep.net/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/); | [araa](https://www.annualreviews.org/journal/astro), [apj](https://journals.aas.org/astrophysical-journal/), [mnras](https://academic.oup.com/mnras/advance-articles), [a&a](https://www.aanda.org/), [sciengine](https://www.sciengine.com/), [aps](https://www.aps.org/publications/index.cfm), [nature](https://www.nature.com/), [science](https://www.sciencemag.org/#).  
 Astro Pictures:  [nasa](https://www.nasa.gov/), [nasa.astro-picture](https://apod.nasa.gov/apod/).  
   
@@ -46,7 +47,7 @@ Learning: *[Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [
 AS&PS:  *[CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).*  
 Jobs:  *[Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).*   
   
-HNU:  [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action), [NSFC](https://www.nsfc.gov.cn/).
+HNU:  [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
 
 
 
