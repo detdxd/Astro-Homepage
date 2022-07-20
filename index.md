@@ -5,7 +5,8 @@
 Astronomy: *AGN jet, AGN & Stellar Feedback, ICM & CGM...*    
 Physics: *Astrophysical Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
-<br/>
+<br/>  
+  
 **Teaching**   
 Physics: *College Physics; Electrodynamics;*  
 Astrophysics: *Introduction to Astrophysics.*  
