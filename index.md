@@ -2,7 +2,7 @@
 <br/>
 
 **Recent Research Interests**  
-Astronomy: *AGN jet, AGN & Stellar Feedback, ICM & CGM...*    
+Astronomy: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*    
 Physics: *Astrophysical Fluids and Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 <br/>  
@@ -25,7 +25,7 @@ B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https:/
 
 ***  
 
-**Note: Links**     
+**Useful Links**     
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [cn.arxiv](http://cn.arxiv.org/), [zenodo](https://zenodo.org/), [ads](https://ui.adsabs.harvard.edu/), [inspire](https://inspirehep.net/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/); | [araa](https://www.annualreviews.org/journal/astro), [apj](https://journals.aas.org/astrophysical-journal/), [mnras](https://academic.oup.com/mnras/advance-articles), [a&a](https://www.aanda.org/), [sciengine](https://www.sciengine.com/), [aps](https://www.aps.org/publications/index.cfm), [nature](https://www.nature.com/), [science](https://www.sciencemag.org/#).  
 Astro Pictures:  [nasa](https://www.nasa.gov/), [nasa.astro-picture](https://apod.nasa.gov/apod/).  
@@ -43,7 +43,7 @@ Other Tools: [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https:
 Learning: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).     
   
 Lectures: [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past); [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
-Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://astro.tsinghua.edu.cn/~xbai/index.html), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html).  
+Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html).  
 Books:  [textbooks](https://www.douban.com/doulist/112364872/); [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).   
   
   
