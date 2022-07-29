@@ -43,7 +43,7 @@ Other Tools: [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https:
 Learning: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).     
   
 Lectures: [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past); [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
-Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html).  
+Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Newman](http://websites.umich.edu/~mejn/cp/programs.html).  
 Books:  [textbooks](https://www.douban.com/doulist/112364872/); [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).   
   
   
