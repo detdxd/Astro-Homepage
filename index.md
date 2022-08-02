@@ -8,9 +8,8 @@ Methods: *Numerical Simulation and Semi-Quantitative Analysis.*
 <br/>  
   
 **Teaching**   
-Physics: *College Physics; Electrodynamics;*  
-Astrophysics: *Introduction to Astrophysics.*  
-Textbooks Recommended: Physics[https://www.douban.com/doulist/151496101/], Astrophysics[https://www.douban.com/doulist/151496239/].   
+[Physics](https://www.douban.com/doulist/151496101/): *College Physics; Electrodynamics;*  
+[Astrophysics](https://www.douban.com/doulist/151496239/): *Introduction to Astrophysics.*  
 
 <br/>
 **Publications**  
