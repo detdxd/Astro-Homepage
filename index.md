@@ -8,8 +8,8 @@ Methods: *Numerical Simulation and Semi-Quantitative Analysis.*
 <br/>  
   
 **Teaching**   
-Physics: *College Physics; Electrodynamics;*  
-Astrophysics: *Introduction to Astrophysics.*  
+Courses: *College Physics, Electrodynamics, Introduction to Astrophysics.*    
+Research Training: *Astrophysical Fluids & Plasmas, Computational Astrophysics.*  
 
 <br/>
 **Publications**  
