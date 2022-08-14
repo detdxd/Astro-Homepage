@@ -1,7 +1,7 @@
 ***Xiaodong Duan, Astrophysics***.  
 <br/>
 
-**Recent Research Interests**  
+**Research**  
 Astronomy: *Astrophysics of Galaxies, High Energy Astrophysics.*    
 Physics: *Fluids and Plasmas, Radiation, Gravitation.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
