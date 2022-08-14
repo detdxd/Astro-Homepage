@@ -2,9 +2,10 @@
 <br/>
 
 **Recent Research Interests**  
-Astronomy: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*    
-Physics: *Astrophysical Fluids and Plasmas.*  
+Astronomy: *Astrophysics of Galaxies, High Energy Astrophysics.*    
+Physics: *Fluids and Plasmas, Radiation, Gravitation.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
+Recent Focuses: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*   
 <br/>  
   
 **Teaching**   
