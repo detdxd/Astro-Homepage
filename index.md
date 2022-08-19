@@ -3,14 +3,14 @@
 
 **Research**  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*    
-Physics: *Astrophysical Hydrodynamics.*  
+Physics: *Astrophysical Fluid Dynamics.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*   
 <br/>  
   
 **Teaching**   
 Courses: *College Physics, Electrodynamics, Introduction to Astrophysics.*    
-Research Training: *Astrophysical Hydrodynamics, Computational Astrophysics.*  
+Research Training: *Astrophysical Fluid Dynamics, Computational Astrophysics.*  
 
 <br/>
 **Publications**  
