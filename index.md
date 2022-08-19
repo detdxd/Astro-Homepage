@@ -1,4 +1,4 @@
-***Xiaodong Duan***  
+***Xiaodong Duan(段晓东)***  
 <br/>
 
 **Research: Astrophysics**  
