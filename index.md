@@ -1,14 +1,14 @@
-***Xiaodong Duan, Astrophysics***.  
+***Xiaodong Duan***.  
 <br/>
 
-**Research**  
+**Research: Astrophysics**  
 Astronomy: *Astrophysics of Galaxies, High Energy Astrophysics.*    
 Physics: *Astrophysical Fluids & Plasmas.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
-Recent Focuses: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*   
+Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*   
 <br/>  
   
-**Teaching**   
+**Teaching: Physics & Astrophysics**   
 Courses: *College Physics, Electrodynamics, Introduction to Astrophysics.*    
 Research Training: *Astrophysical Fluids & Plasmas, Computational Astrophysics.*  
 
