@@ -3,9 +3,9 @@
 
 **Research**  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*    
-Physics: *Astrophysical Fluid Dynamics.*  
+Physics: *Fluid & Plasma, Radiation & Particle, Gravitation.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
-Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*   
+Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet & Cosmic Ray...*   
 <br/>  
   
 **Teaching**   
