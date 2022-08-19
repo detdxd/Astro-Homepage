@@ -2,7 +2,7 @@
 <br/>
 
 **Research**  
-Astrophysics: *Astrophysics of Galaxies, High Energy Astrophysics.*    
+Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*    
 Physics: *Astrophysical Hydrodynamics.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet...*   
