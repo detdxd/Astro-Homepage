@@ -1,4 +1,4 @@
-***Xiaodong Duan***.  
+***Xiaodong Duan***  
 <br/>
 
 **Research: Astrophysics**  
