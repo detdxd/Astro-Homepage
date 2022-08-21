@@ -2,9 +2,9 @@
 <br/>
 
 **Research**     
-Astrophysics: *Astrophysical Fluid Dynamics, Astrophysics of Galaxies, High Energy Astrophysics.*  
+Astrophysics: *Astrophysical Fluid Dynamics; Astrophysics of Galaxies, High Energy Astrophysics.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
-Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet & Cosmic Ray...*   
+Topics: *AGN & Stellar Feedback, ICM & CGM; AGN jet & Cosmic Ray...*   
 <br/>  
 
 **Teaching**   
@@ -18,9 +18,9 @@ Research Training: *Astrophysical Fluid Dynamics, Computational Astrophysics.*
 
 **Experience**  
 Faculty (2021.7-):  *[School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).*  
-Ph.D (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/).*  
+PhD (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/).*  
 Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).*  
-B.S. (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
+BS (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
 <br/>
 
 ***  
@@ -37,7 +37,7 @@ Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](ht
 Lectures: [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past); [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
 Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Newman](http://websites.umich.edu/~mejn/cp/programs.html).  
 Books:  [textbooks](https://www.douban.com/doulist/112364872/); [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).  
-Tools: [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/); | [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); | [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/); | [Visit](https://wci.llnl.gov/simulation/computer-codes/visit), [Paraview](https://www.paraview.org/), [WebPlotDigitizer](https://apps.automeris.io/wpd/); | [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5).  
+Tools: [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/); | [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); | [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/), [Visit](https://wci.llnl.gov/simulation/computer-codes/visit), [Paraview](https://www.paraview.org/), [WebPlotDigitizer](https://apps.automeris.io/wpd/); | [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5).  
 Coding: [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).       
   
 Jobs:  [Acabridge](https://www.acabridge.edu.cn), [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
