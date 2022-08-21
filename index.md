@@ -6,12 +6,12 @@ Astrophysics: *Astrophysical Fluid Dynamics, Astrophysics of Galaxies, High Ener
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet & Cosmic Ray...*   
 <br/>  
-  
+
 **Teaching**   
 Courses: *College Physics, Electrodynamics, Introduction to Astrophysics.*    
 Research Training: *Astrophysical Fluid Dynamics, Computational Astrophysics.*  
-
 <br/>
+
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
 <br/>
