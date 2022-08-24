@@ -28,8 +28,9 @@ BS (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://w
 
 **Useful Links**     
 
-Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/); | [apj](https://journals.aas.org/astrophysical-journal/), [mnras](https://academic.oup.com/mnras/advance-articles), [a&a](https://www.aanda.org/), [araa](https://www.annualreviews.org/journal/astro); [sciengine](https://www.sciengine.com/), [aps](https://www.aps.org/publications/index.cfm); [nature](https://www.nature.com/), [science](https://www.sciencemag.org/#).   
-AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
+Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
+Journals: [SCPMA](https://www.sciengine.com/SCPMA/home), [RAA](http://www.raa-journal.org/); [ApJ](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/); [araa](https://www.annualreviews.org/journal/astro); [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#).   
+AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [APS](https://www.aps.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
     
 Codes:  [amrvac](http://amrvac.org/), [pluto](http://plutocode.ph.unito.it/), [zeus-mp](https://github.com/bwoshea/ZEUS-MP_2); | [bhac](https://bhac.science/), [athena++](https://princetonuniversity.github.io/athena/download.html), [ilgrmhd](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html); | [ramses](https://bitbucket.org/rteyssie/ramses/src/master/), [enzo](https://enzo-project.org/), [arepo](https://arepo-code.org/).  
 Simus: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [skies & universes](http://skiesanduniverses.iaa.es/).  
