@@ -2,7 +2,8 @@
 <br/>
 
 **Research**     
-Astrophysics: *Astrophysical Fluid Dynamics; Astrophysics of Galaxies, High Energy Astrophysics.*  
+Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*  
+Physics: *Astrophysical Fluid Dynamics.*  
 Methods: *Numerical Simulation and Semi-Quantitative Analysis.*  
 Topics: *AGN & Stellar Feedback, ICM & CGM; AGN jet & Cosmic Ray...*   
 <br/>  
@@ -27,10 +28,10 @@ BS (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://w
 
 **Useful Links**     
 
-Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/); | [apj](https://journals.aas.org/astrophysical-journal/), [mnras](https://academic.oup.com/mnras/advance-articles), [a&a](https://www.aanda.org/),[araa](https://www.annualreviews.org/journal/astro), [sciengine](https://www.sciengine.com/), [aps](https://www.aps.org/publications/index.cfm), [nature](https://www.nature.com/), [science](https://www.sciencemag.org/#).   
+Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/); | [apj](https://journals.aas.org/astrophysical-journal/), [mnras](https://academic.oup.com/mnras/advance-articles), [a&a](https://www.aanda.org/), [araa](https://www.annualreviews.org/journal/astro); [sciengine](https://www.sciengine.com/), [aps](https://www.aps.org/publications/index.cfm); [nature](https://www.nature.com/), [science](https://www.sciencemag.org/#).   
 AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
     
-Codes:  [mpi-amrvac](http://amrvac.org/), [pluto](http://plutocode.ph.unito.it/), [zeus-mp](https://github.com/bwoshea/ZEUS-MP_2); | [bhac](https://bhac.science/), [athena++](https://princetonuniversity.github.io/athena/download.html), [ilgrmhd](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html); | [ramses](https://bitbucket.org/rteyssie/ramses/src/master/), [enzo](https://enzo-project.org/), [arepo](https://arepo-code.org/).  
+Codes:  [amrvac](http://amrvac.org/), [pluto](http://plutocode.ph.unito.it/), [zeus-mp](https://github.com/bwoshea/ZEUS-MP_2); | [bhac](https://bhac.science/), [athena++](https://princetonuniversity.github.io/athena/download.html), [ilgrmhd](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html); | [ramses](https://bitbucket.org/rteyssie/ramses/src/master/), [enzo](https://enzo-project.org/), [arepo](https://arepo-code.org/).  
 Simus: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [skies & universes](http://skiesanduniverses.iaa.es/).  
 Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](https://chandra.harvard.edu/), [erosita](https://erosita.mpe.mpg.de/); [hxmt](http://hxmtweb.ihep.ac.cn/), [hubs](http://hubs.phys.tsinghua.edu.cn/); | [fermi](https://fermi.gsfc.nasa.gov/),  [lhaaso](http://english.ihep.cas.cn/lhaaso/), [dampe](http://pmo.cas.cn/dampe/kycg/); |  [sdss](https://www.sdss.org/), [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html), [csst](http://nao.cas.cn/csst/), | [fast](https://fast.bao.ac.cn/), [alma](https://www.eso.org/public/teles-instr/alma/), [ska](https://www.skatelescope.org/the-ska-project/); | [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).  
   
