@@ -1,7 +1,7 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
-**Research Field**     
+**Research**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
 Methods: *Numerical Simulation & Semi-Quantitative Analysis.*   
@@ -33,7 +33,7 @@ AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [
     
 Codes:  [amrvac](http://amrvac.org/), [pluto](http://plutocode.ph.unito.it/), [zeus-mp](https://github.com/bwoshea/ZEUS-MP_2); | [bhac](https://bhac.science/), [athena++](https://princetonuniversity.github.io/athena/download.html), [ilgrmhd](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html); | [ramses](https://bitbucket.org/rteyssie/ramses/src/master/), [enzo](https://enzo-project.org/), [arepo](https://arepo-code.org/).  
 Simus: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [skies & universes](http://skiesanduniverses.iaa.es/).  
-Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](https://chandra.harvard.edu/), [erosita](https://erosita.mpe.mpg.de/); [hxmt](http://hxmtweb.ihep.ac.cn/), [hubs](http://hubs.phys.tsinghua.edu.cn/); | [fermi](https://fermi.gsfc.nasa.gov/),  [lhaaso](http://english.ihep.cas.cn/lhaaso/), [dampe](http://pmo.cas.cn/dampe/kycg/); |  [sdss](https://www.sdss.org/), [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html), [csst](http://nao.cas.cn/csst/), | [fast](https://fast.bao.ac.cn/), [alma](https://www.eso.org/public/teles-instr/alma/), [ska](https://www.skatelescope.org/the-ska-project/); | [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).  
+Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](https://chandra.harvard.edu/), [erosita](https://erosita.mpe.mpg.de/); [hxmt](http://hxmtweb.ihep.ac.cn/), [hubs](http://hubs.phys.tsinghua.edu.cn/); | [fermi](https://fermi.gsfc.nasa.gov/),  [lhaaso](http://english.ihep.cas.cn/lhaaso/), [dampe](http://pmo.cas.cn/dampe/kycg/); |  [sdss](https://www.sdss.org/), [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html), [jwst](https://www.nasa.gov/mission_pages/webb/main/index.html), [lamost](http://www.lamost.org/public/), [csst](http://nao.cas.cn/csst/); | [fast](https://fast.bao.ac.cn/), [alma](https://www.eso.org/public/teles-instr/alma/), [ska](https://www.skatelescope.org/the-ska-project/); | [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).  
   
 Lectures: [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past), [NAOClectures](https://www.newscctv.net/219news/matrix_detail.html?deptId=11471); [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
 Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Newman](http://websites.umich.edu/~mejn/cp/programs.html).  
