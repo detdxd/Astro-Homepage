@@ -1,18 +1,14 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
-**Research Fields**     
+**Research Field**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*  
 Methods: *Numerical Simulation & Semi-Quantitative Analysis.*    
 <br/>  
 
 **Research Topics**       
-*AGN & Stellar Feedback;*  
-*High Energy Outbursts;*  
-*ICM & CGM;*  
-*AGN Jets & Cosmic Ray;*  
-...
+*AGN & Stellar Feedback, ICM & CGM, AGN Jets, Cosmic Ray...*  
 <br/>  
 
 **Teaching**   
