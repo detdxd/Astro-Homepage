@@ -4,11 +4,8 @@
 **Research Field**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*  
-Methods: *Numerical Simulation & Semi-Quantitative Analysis.*    
-<br/>  
-
-**Research Topics**       
-*AGN & Stellar Feedback, ICM & CGM, AGN Jets, Cosmic Ray...*  
+Methods: *Numerical Simulation & Semi-Quantitative Analysis.*   
+Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets, Cosmic Ray...*  
 <br/>  
 
 **Teaching**   
