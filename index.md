@@ -1,11 +1,18 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
-**Research**     
+**Research Fields**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*  
-Methods: *Numerical Simulation & Semi-Quantitative Analysis.*  
-Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet & Cosmic Ray...*   
+Methods: *Numerical Simulation & Semi-Quantitative Analysis.*    
+<br/>  
+
+**Research Topics**       
+*AGN & Stellar Feedback;*  
+*High Energy Outbursts;*  
+*ICM & CGM;*  
+*AGN Jets & Cosmic Ray;*  
+...
 <br/>  
 
 **Teaching**   
@@ -18,9 +25,9 @@ Topics: *AGN & Stellar Feedback, ICM & CGM, AGN jet & Cosmic Ray...*
 
 **Experience**  
 Faculty (2021.7-):  *[School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).*  
-PhD (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/).*  
+PhD in Astrophysics (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/).*  
 Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).*  
-BS (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
+BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
 <br/>
 
 ***  
