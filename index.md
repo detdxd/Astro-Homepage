@@ -1,16 +1,16 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
+**Teaching**   
+*College Physics, Electrodynamics, Introduction to Astrophysics.*     
+<br/>
+
 **Research**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*  
 Methods: *Numerical Simulation & Semi-Quantitative Analysis.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets & Cosmic Ray...*  
 <br/>  
-
-**Teaching**   
-*College Physics, Electrodynamics, Introduction to Astrophysics.*     
-<br/>
 
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
@@ -28,11 +28,11 @@ BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU
 **Useful Links**     
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
-Journals:  [ApJ](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [SCPMA](https://www.sciengine.com/SCPMA/home), [RAA](http://www.raa-journal.org/); [ARAA](https://www.annualreviews.org/journal/astro); [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#).   
+Journals:  [ApJ](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [RAA](http://www.raa-journal.org/), [SCPMA](https://www.sciengine.com/SCPMA/home); [ARAA](https://www.annualreviews.org/journal/astro), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews); [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#).   
 AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [APS](https://www.aps.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
     
 Codes:  [amrvac](http://amrvac.org/), [pluto](http://plutocode.ph.unito.it/), [zeus-mp](https://github.com/bwoshea/ZEUS-MP_2); | [bhac](https://bhac.science/), [athena++](https://princetonuniversity.github.io/athena/download.html), [ilgrmhd](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html); | [ramses](https://bitbucket.org/rteyssie/ramses/src/master/), [enzo](https://enzo-project.org/), [arepo](https://arepo-code.org/).  
-Simus: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [skies & universes](http://skiesanduniverses.iaa.es/).  
+Simus: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/), [skies & universes](http://skiesanduniverses.iaa.es/).  
 Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](https://chandra.harvard.edu/), [erosita](https://erosita.mpe.mpg.de/); [hxmt](http://hxmtweb.ihep.ac.cn/), [hubs](http://hubs.phys.tsinghua.edu.cn/); | [fermi](https://fermi.gsfc.nasa.gov/),  [lhaaso](http://english.ihep.cas.cn/lhaaso/), [dampe](http://pmo.cas.cn/dampe/kycg/); |  [sdss](https://www.sdss.org/), [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html), [jwst](https://www.nasa.gov/mission_pages/webb/main/index.html), [lamost](http://www.lamost.org/public/), [csst](http://nao.cas.cn/csst/); | [fast](https://fast.bao.ac.cn/), [alma](https://www.eso.org/public/teles-instr/alma/), [ska](https://www.skatelescope.org/the-ska-project/); | [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).  
   
 Lectures: [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past), [NAOClectures](https://www.newscctv.net/219news/matrix_detail.html?deptId=11471); [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
