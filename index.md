@@ -18,7 +18,7 @@ Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets & Cosmic Ray...*
 
 **Experience**  
 Faculty (2021.7-):  *[School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).*  
-PhD in Astrophysics (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/)&[UCAS](https://www.ucas.ac.cn/).*  
+PhD in Astrophysics (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/).*  
 Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).*  
 BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
 <br/>
@@ -31,8 +31,8 @@ Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.ha
 Journals:  [ApJ](https://journals.aas.org/astrophysical-journal/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [A&A](https://www.aanda.org/), [RAA](http://www.raa-journal.org/), [SCPMA](https://www.sciengine.com/SCPMA/home); [ARAA](https://www.annualreviews.org/journal/astro), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews); [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#).   
 AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [APS](https://www.aps.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/).  
   
-Lectures1: [SHAOlectures](https://www.newscctv.net/219news/matrix_detail.html?deptId=11471), [USTClectures](https://astro.ustc.edu.cn/11378/list.htm), [NJUlectures](https://astronomy.nju.edu.cn/xshd/xsbg/index.html), [NAOClectures](https://www.newscctv.net/219news/matrix_detail.html?deptId=11471), [KouShare](https://www.koushare.com), [KIPT Program](https://www.kitp.ucsb.edu/programs/past).  
-Lectures2: [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
+Lectures1: [SHAOlectures](https://www.newscctv.net/219news/matrix_detail.html?deptId=11471), [USTClectures](https://astro.ustc.edu.cn/11378/list.htm), [NJUlectures](https://astronomy.nju.edu.cn/xshd/xsbg/index.html), [NAOClectures](https://www.newscctv.net/219news/matrix_detail.html?deptId=11471), [KIPT Program](https://www.kitp.ucsb.edu/programs/past).  
+Lectures2: [KouShare](https://www.koushare.com), [Smartedu](https://www.smartedu.cn/), [iCourses](https://www.icourses.cn/home/#), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/); [Shankar.1](http://open.163.com/special/fundamentalsofphysics/), [2](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fphysicsii.html).  
     
 Codes:  [amrvac](http://amrvac.org/), [pluto](http://plutocode.ph.unito.it/), [zeus-mp](https://github.com/bwoshea/ZEUS-MP_2); | [bhac](https://bhac.science/), [athena++](https://princetonuniversity.github.io/athena/download.html), [ilgrmhd](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html); | [ramses](https://bitbucket.org/rteyssie/ramses/src/master/), [enzo](https://enzo-project.org/), [arepo](https://arepo-code.org/).  
 Simus: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/), [skies & universes](http://skiesanduniverses.iaa.es/).  
