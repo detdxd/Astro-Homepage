@@ -1,16 +1,16 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
-**Teaching**   
-*College Physics, Electrodynamics, Introduction to Astrophysics.*     
-<br/>
-
 **Research**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
 Methods: *Numerical Simulation & Semi-Quantitative Analysis.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 <br/>  
+
+**Teaching**   
+*College Physics, Electrodynamics, Introduction to Astrophysics.*     
+<br/>
 
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
