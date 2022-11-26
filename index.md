@@ -1,7 +1,7 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
-<img src="https://github.com/detdxd/Astro-Homepage/blob/master/image.jpeg" />  
-![image](https://github.com/detdxd/Astro-Homepage/blob/master/image.jpeg?raw=true)  
+ 
+![image](https://github.com/detdxd/Astro-Homepage/blob/master/image.jpeg?raw=true#pic_right)  
 
 **Research**     
 Physics: *Astrophysical Fluid Dynamics.*  
