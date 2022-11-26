@@ -1,6 +1,8 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
+[image]!(https://github.com/detdxd/Astro-Homepage/blob/master/image.jpeg)
+
 **Research**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
