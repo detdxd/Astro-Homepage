@@ -1,4 +1,4 @@
-***Xiaodong Duan*** (段晓东)  
+***Xiaodong Duan*** (段晓东)  ![Octocat](https://github.com/detdxd/Astro-Homepage/blob/master/smallpng.jpg)
 <br/>  
 
 **Research**     
