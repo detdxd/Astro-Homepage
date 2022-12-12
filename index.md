@@ -28,8 +28,7 @@ BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU
 <br/>  
 
 ***  
-<br/> 
-
+<br/>
 **Useful Links**     
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
