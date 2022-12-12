@@ -1,4 +1,4 @@
-***Xiaodong Duan*** (段晓东)  ![Octocat](https://github.com/detdxd/Astro-Homepage/blob/master/smallpng.jpg)
+***Xiaodong Duan*** (段晓东)  
 <br/>  
 
 **Research**     
@@ -40,7 +40,7 @@ Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](ht
      
 Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html); [Newman](http://websites.umich.edu/~mejn/cp/programs.html).  
 Books:  [textbooks](https://www.douban.com/doulist/112364872/); [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks).  
-Tools: [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/); | [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); | [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/), [Visit](https://wci.llnl.gov/simulation/computer-codes/visit), [Paraview](https://www.paraview.org/), [WebPlotDigitizer](https://apps.automeris.io/wpd/); | [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5).  
+Tools: [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/); | [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); | [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/), [Visit](https://wci.llnl.gov/simulation/computer-codes/visit), [Paraview](https://www.paraview.org/), [WebPlotDigitizer](https://apps.automeris.io/wpd/); | [Aimwriting](https://aimwriting.mtutor.engkoo.com/); [Windy](https://www.windy.com/?35.187,113.803,5);[Taotie](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html#id19).  
 Coding: [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).       
   
 Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
