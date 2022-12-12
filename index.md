@@ -27,7 +27,8 @@ BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU
 [Douban Homepage](https://www.douban.com/doulist/112364872/)  
 <br/> 
 
-***
+***  
+<br/> 
 
 **Useful Links**     
 
