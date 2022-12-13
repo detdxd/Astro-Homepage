@@ -19,9 +19,8 @@ Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/)
 BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
 <br/>
 
-*Publications*: [OCRID](https://orcid.org/0000-0002-6921-1899).  
-
-*Recommended Texts*: [Douban](https://www.douban.com/doulist/112364872/)  
+*Publications*: [*OCRID*](https://orcid.org/0000-0002-6921-1899).  
+*Recommended Texts*: [*Douban*](https://www.douban.com/doulist/112364872/)  
 <br/>
 
 ***  
