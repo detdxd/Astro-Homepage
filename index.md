@@ -23,7 +23,7 @@ BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU
 [OCRID](https://orcid.org/0000-0002-6921-1899).  
 <br/>
 
-**Textbooks Recomendation**  
+**Recommended Texts**  
 [Douban](https://www.douban.com/doulist/112364872/)  
 <br/>
 
