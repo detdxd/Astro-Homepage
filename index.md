@@ -4,7 +4,7 @@
 **Research**     
 Physics: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*  
-Methods: *Numerical Simulation & Analytical Estimations.*   
+Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 <br/>  
 
