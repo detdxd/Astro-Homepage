@@ -9,7 +9,7 @@ Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*
 <br/>  
 
 **Teaching**   
-*Electrodynamics, Introduction to Astrophysics.*     
+*College Physics, Electrodynamics, Introduction to Astrophysics.*     
 <br/>
 
 **Experience**  
