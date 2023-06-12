@@ -46,7 +46,7 @@ Coding: [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [X
   
 Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
   
-HNU: [HPC](https://www.htu.edu.cn/info/main.htm), [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
+work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/), [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
 
 
 
