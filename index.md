@@ -2,10 +2,13 @@
 <br/>  
 
 **Research**     
-Physics: *Astrophysical Fluid Dynamics - Gas Dynamics with Gravity, Radiation, Magnetic Field, Particles, etc.*  
+Physics: *Astrophysical Fluid Dynamics*  
 Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*  
 Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
+
+Q: What is 'Astrophysical Fluid Dynamics'?  
+A: Gas Dynamics with Gravity, Radiation, Magnetic Field, Particles, etc.  
 <br/>  
 
 **Teaching**   
