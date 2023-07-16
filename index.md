@@ -7,8 +7,11 @@ Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*
 Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 
-Q: What is 'Astrophysical Fluid Dynamics'?  
-A: Mainly Refer to Gas Dynamics with Gravity, Radiation, Magnetic Field, Particles, etc.  
+Q: What is 'Astrophysical Fluid Dynamics' ?  
+A: Mainly refer to gas dynamics with gravity, radiation, magnetic Field, particles, etc.  
+Q: Why 'Astrophysical Fluid Dynamics' ?  
+A: If you cannot unify the 4 fundamental forces, just put them together and play with them.  
+
 <br/>  
 
 **Teaching**   
@@ -44,12 +47,12 @@ Obs: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](ht
      
 Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html); [Frank.vdBosch](https://campuspress.yale.edu/vdbosch/); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html), [Newman](http://websites.umich.edu/~mejn/cp/programs.html).  
 Books: [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks); | [Douban](https://www.douban.com/doulist/112364872/).  
-Tools: [Wolfram](https://www.wolframalpha.com/); | [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/); | [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); | [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/doc/), [Visit](https://wci.llnl.gov/simulation/computer-codes/visit), [Paraview](https://www.paraview.org/), [WebPlotDigitizer](https://apps.automeris.io/wpd/); | [QuillBot](https://quillbot.com/); [Aimwriting](https://aimwriting.mtutor.engkoo.com/); | [Windy](https://www.windy.com/?35.187,113.803,5);[Taotie](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html#id19); |[Physics Tree](https://academictree.org/physics/index.php).  
-Coding: [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/).       
+Tools: [Wolfram](https://www.wolframalpha.com/); | [Overleaf](https://www.overleaf.com/project), [QuillBot](https://quillbot.com/), [Aimwriting](https://aimwriting.mtutor.engkoo.com/); | [Visit](https://wci.llnl.gov/simulation/computer-codes/visit), [Paraview](https://www.paraview.org/), [WebPlotDigitizer](https://apps.automeris.io/wpd/); | [Windy](https://www.windy.com/?35.187,113.803,5), [Taotie](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html#id19).  
+Coding: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/); | [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); | [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/doc/) ; | [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/).  
   
 Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
   
-work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/), [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
+work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
 
 
 
