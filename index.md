@@ -8,7 +8,7 @@ Methods: *Numerical Simulation & Analytical Estimation.*
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 
 Q: What is 'Astrophysical Fluid Dynamics'?  
-A: Gas Dynamics with Gravity, Radiation, Magnetic Field, Particles, etc.  
+A: Mainly Refer to Gas Dynamics with Gravity, Radiation, Magnetic Field, Particles, etc.  
 <br/>  
 
 **Teaching**   
