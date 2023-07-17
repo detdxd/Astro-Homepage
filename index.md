@@ -8,9 +8,7 @@ Methods: *Numerical Simulation & Analytical Estimation.*
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 
 **Q**: What is 'Astrophysical Fluid Dynamics' ?  
-**A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to fluid dynamics (hydrodynamics) with gravitation, radiation, magnetic field, particles (e.g., cosmic ray), etc.  
-**Q**: Why 'Astrophysical Fluid Dynamics' ?  
-**A**: If you cannot unify the 4 fundamental interactions, you can only put them together and play with them, though you will find yourself in a complex world.  
+**A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to fluid dynamics (hydrodynamics) with gravitation, radiation, magnetic field, particles (e.g., cosmic ray), etc.    
 <br/>  
 
 **Teaching**   
