@@ -7,8 +7,11 @@ Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*
 Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 
+**Q** & **A** for students:  
+**Q**: What are the research fields of astrophysics?  
+**A**: See the subject areas on '[arxiv](https://arxiv.org/)'.  
 **Q**: What is 'Astrophysical Fluid Dynamics' ?  
-**A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to fluid dynamics (hydrodynamics) with gravitation, radiation, magnetic field, particles (e.g., cosmic ray), etc.    
+**A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to fluid dynamics (hydrodynamics) with gravitation, radiation, magnetic field, and particles (e.g., cosmic rays), etc.    
 <br/>  
 
 **Teaching**   
