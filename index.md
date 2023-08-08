@@ -7,7 +7,6 @@ Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*
 Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 
-**Q** & **A** for students:  
 **Q**: What are the research fields of astrophysics?  
 **A**: See the subject areas on '[arxiv](https://arxiv.org/)'.  
 **Q**: What is 'Astrophysical Fluid Dynamics' ?  
