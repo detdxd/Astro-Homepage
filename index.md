@@ -7,7 +7,7 @@ Astrophysics: *Physics of Galaxies, High Energy Astrophysics.*
 Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
 
-**Q**: What are the research fields of astrophysics?  
+**Q**: What are the research fields in astrophysics ?  
 **A**: See the subject areas on '[arxiv](https://arxiv.org/)'.  
 **Q**: What is 'Astrophysical Fluid Dynamics' ?  
 **A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to fluid dynamics (hydrodynamics) with gravitation, radiation, magnetic field, and particles (e.g., cosmic rays), etc.    
@@ -18,10 +18,10 @@ Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*
 <br/>
 
 **Experience**  
-Faculty (2021.7-):  *[School of Physics](https://www.htu.edu.cn/physics/), [HNU](https://www.htu.edu.cn/).*  
-PhD in Astrophysics (2021.6):  *[Astrophysics Division](http://astro.shao.cas.cn/), [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/).*  
-Transit (2015.9-2016.6):  *[Department of Astronomy](https://astro.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/).*  
-BS in Physics (2015.7):  *[School of Physics](https://physics.nwu.edu.cn/), [NWU](https://www.nwu.edu.cn/).*  
+Faculty (2021.7-):  *School of Physics, HNU.*  
+PhD in Astrophysics (2021.6):  *Astrophysics Division, SHAO, UCAS.*  
+Transit (2015.9-2016.6):  *Department of Astronomy, USTC.*  
+BS in Physics (2015.7):  *School of Physics, NWU.*  
 <br/>
 
 **Publications**  
@@ -51,7 +51,7 @@ Coding: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yib
   
 Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
   
-work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [一网通办](http://ehall2.htu.edu.cn/ywtb-portal/official/index.html), [教务管理](https://jwc.htu.edu.cn/), [科研服务](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
+work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/), [ky.htu](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
 
 
 
