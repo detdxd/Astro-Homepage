@@ -18,7 +18,7 @@ Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*
 <br/>
 
 **Experience**  
-Faculty (2021.7-):  *School of Physics, HNU.*  
+Employment (2021.7-):  *School of Physics, HNU.*  
 PhD in Astrophysics (2021.6):  *Astrophysics Division, SHAO, UCAS.*  
 Transit (2015.9-2016.6):  *Department of Astronomy, USTC.*  
 BS in Physics (2015.7):  *School of Physics, NWU.*  
