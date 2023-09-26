@@ -1,14 +1,14 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>  
 
-**Research**     
-Physics: *Astrophysical Fluid Dynamics*  
+**Research**       
 Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
+Physical Processes: *Astrophysical Fluid Dynamics.*  
 Methods: *Numerical Simulation & Analytical Estimation.*   
-Topics: *AGN & Stellar Feedback, ICM & CGM, AGN Jets...*  
+Topics: *AGN & Stellar Feedback, AGN Jets, ICM & CGM...*  
 
 **Q**: What are the research fields in astrophysics ?  
-**A**: See the subject areas on '[arxiv](https://arxiv.org/)'.  
+**A**: See the fields on '[arxiv](https://arxiv.org/)' or the sections of '[A&A](https://www.aanda.org/articles/aa/abs/2023/08/contents/contents.html#section_10.1051/0004-6361/202346435)'.  
 **Q**: What is 'Astrophysical Fluid Dynamics' ?  
 **A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to fluid dynamics (hydrodynamics) with gravitation, radiation, magnetic field, and particles (e.g., cosmic rays), etc.    
 <br/>  
