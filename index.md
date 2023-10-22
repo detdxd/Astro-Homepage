@@ -5,7 +5,7 @@
 Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
 Physical Processes: *Astrophysical Fluid Dynamics.*  
 Methods: *Numerical Simulation & Analytical Estimation.*   
-Topics: *AGN & Stellar Feedback, AGN Jets, ICM & CGM...*  
+Topics: *AGN Jets, AGN & Stellar Feedback, ICM & CGM...*  
 
 **Q**: What are the research fields in astrophysics ?  
 **A**: See the fields on '[arxiv](https://arxiv.org/)' or the sections of '[A&A](https://www.aanda.org/articles/aa/abs/2023/08/contents/contents.html#section_10.1051/0004-6361/202346435)'.  
