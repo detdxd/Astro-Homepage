@@ -13,6 +13,9 @@ Topics: *AGN Jets, AGN & Stellar Feedback, ICM & CGM...*
 **A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to fluid dynamics (hydrodynamics) with gravitation, radiation, magnetic field, and particles (e.g., cosmic rays), etc.    
 <br/>  
 
+**Publications**  
+[OCRID](https://orcid.org/0000-0002-6921-1899).  
+
 **Teaching**   
 *College Physics, Electrodynamics, Introduction to Astrophysics.*     
 <br/>
@@ -24,8 +27,6 @@ Transit (2015.9-2016.6):  *Department of Astronomy, USTC.*
 BS in Physics (2015.7):  *School of Physics, NWU.*  
 <br/>
 
-**Publications**  
-[OCRID](https://orcid.org/0000-0002-6921-1899).  
 
 ***  
 <br/>
