@@ -2,9 +2,9 @@
 <br/>  
 
 **Teaching**   
-*Introduction to Astrophysics (since 2023, Fall & Spring);*  
-*Electrodynamics (since 2023, Spring);*  
-*College Physics (2022, 2023, Fall).*
+Introduction to Astrophysics (since 2023, Fall & Spring).  
+Electrodynamics (since 2023, Spring).  
+College Physics (2022, 2023, Fall).
 <br/>  
 
 **Research**       
