@@ -15,6 +15,8 @@ Topics: *AGN Jets, AGN & Stellar Feedback, ICM & CGM...*
   
 **Q**: What are the research fields in astrophysics ?  
 **A**: See the fields on '[arxiv](https://arxiv.org/)' or the sections of '[A&A](https://www.aanda.org/articles/aa/abs/2023/08/contents/contents.html#section_10.1051/0004-6361/202346435)'.  
+**Q**: What are the physical processes in astrophysics ?  
+**A**: e.g., radiation, gravitation, gasdynamics (fluids and plasmas), and particles.  
 **Q**: What is 'Astrophysical Fluid Dynamics' ?  
 **A**: As most of the baryonic matter in the universe can be treated as gas or plasma, fluid dynamics is extremely important in astrophysics. 'Astrophysical Fluid Dynamics' mainly refers to the dynamics of fluids with gravitation, radiation, magnetic fields,  particles (e.g., cosmic rays), etc.  
 **Q**: What are AGN jets, ICM...?  
