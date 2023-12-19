@@ -14,7 +14,7 @@ Methods: *Numerical Simulation & Analytical Estimation.*
 Topics: *AGN Jets, AGN & Stellar Feedback, ICM & CGM...*  
   
 **Q**: What are the research fields in astrophysics ?  
-**A**: See the fields on '[arxiv](https://arxiv.org/)' or the sections of '[A&A](https://www.aanda.org/articles/aa/abs/2023/08/contents/contents.html#section_10.1051/0004-6361/202346435)'.  
+**A**: See the fields on '[arxiv](https://arxiv.org/)'.  
 **Q**: What are the physical processes in astrophysics ?  
 **A**: e.g., gravitation, radiation, gasdynamics (fluids and plasmas), and particles.  
 **Q**: What is 'Astrophysical Fluid Dynamics' ?  
