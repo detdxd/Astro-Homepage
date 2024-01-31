@@ -2,9 +2,9 @@
 <br/>  
 
 **Teaching**   
-Introduction to Astrophysics (Fall & Spring).  
+College Physics (Fall).  
 Electrodynamics (Spring).  
-College Physics (Fall).
+Introduction to Astrophysics (Fall). 
 <br/>  
 
 **Research**       
