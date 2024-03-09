@@ -1,4 +1,6 @@
 ***Xiaodong Duan*** (段晓东)  
+
+Academic motto： Happily engrossed in deducing physics, throw your vanity aside (“细推物理须行乐，何用浮名绊此身”).
 <br/>  
 
 **Teaching**   
