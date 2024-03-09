@@ -1,13 +1,15 @@
 ***Xiaodong Duan*** (段晓东)  
+<br/>
 
-Academic motto： Happily engrossed in deducing physics, throw your vanity aside (“细推物理须行乐，何用浮名绊此身”).
-<br/>  
+**Academic motto**  
+Happily engrossed in deducing physics, throw your vanity aside (“细推物理须行乐，何用浮名绊此身”).
+<br/>
 
 **Teaching**   
 College Physics (Fall).  
 Electrodynamics (Spring).  
 Introduction to Astrophysics (Fall). 
-<br/>  
+<br/>
 
 **Research**       
 Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
