@@ -66,7 +66,6 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 
 ***  
 <br/>
-
 **Academic motto**  
   
 *There is great beauty in nature without saying it, and everything is justified without saying it.*  
