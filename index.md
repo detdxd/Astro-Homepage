@@ -69,9 +69,9 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 
 **Academic motto**  
   
-*There is great beauty in nature without saying it, and everything is justified without saying it.*  
-*天地有大美而不言，万物有成理而不说。*  
-*Happily engrossed in deducing physics, throw your vanity aside.*   
+*There is great beauty in nature, clear patterns throughout the year and everything is justified in this silent universe.*  
+*天地有大美而不言，四时有明法而不议，万物有成理而不说。*  
+*Happily engrossed in deducing the law of nature, why spoil our joy by sheer vanity of the day?*   
 *细推物理须行乐，何用浮名绊此身。*  
 *I can choose what I don't need to know.*  
 *我可以选择我不知道什么。* 
