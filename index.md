@@ -66,7 +66,7 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 ***  
 <br/>
 **Academic motto**  
-> Happily engrossed in deducing physics, throw your vanity aside.  
-  “细推物理须行乐，何用浮名绊此身。”  
+> Happily engrossed in deducing physics, throw your vanity aside.
+  “细推物理须行乐，何用浮名绊此身。”
 > I can choose what I don't need to know.
 
