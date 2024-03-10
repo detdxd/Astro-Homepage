@@ -66,12 +66,11 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 ***  
 <br/>
 
-**Academic motto**  
-
-> There is great beauty in nature without saying it, and everything is justified without saying it.  
+> **Academic motto**  
+  There is great beauty in nature without saying it, and everything is justified without saying it.  
   天地有大美而不言，万物有成理而不说。  
   Happily engrossed in deducing physics, throw your vanity aside.   
   细推物理须行乐，何用浮名绊此身。  
-  I can choose what I don't need to know.
+  I can choose what I don't need to know.  
   我可以选择我不知道什么。 
 
