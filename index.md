@@ -67,9 +67,9 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 ***  
 <br/>
 
-**Academic motto**  
+**Academic mottoes**  
   
-*There is great beauty in nature, clear patterns throughout the year, and everything is justified in this silent universe.*  
+*There is great beauty in nature, clear patterns throughout the seasons, and everything is justified in this silent universe.*  
 *天地有大美而不言，四时有明法而不议，万物有成理而不说。*  
 *Be happily engrossed in deducing the law of nature, and don't spoil our joy with sheer vanity.*   
 *细推物理须行乐，何用浮名绊此身。*  
