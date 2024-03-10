@@ -1,11 +1,6 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
-**Academic motto**  
-Happily engrossed in deducing physics, throw your vanity aside.  
-“细推物理须行乐，何用浮名绊此身。”
-<br/>
-
 **Teaching**   
 College Physics (Fall).  
 Electrodynamics (Spring).  
@@ -66,6 +61,12 @@ Coding: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yib
 Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
   
 work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/), [ky.htu](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
+<br/>
 
-
+***  
+<br/>
+**Academic motto**  
+> Happily engrossed in deducing physics, throw your vanity aside.  
+  “细推物理须行乐，何用浮名绊此身。”  
+> I can choose what I don't need to know.
 
