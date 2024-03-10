@@ -71,7 +71,7 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
   
 *There is great beauty in nature, clear patterns throughout the year and everything is justified in this silent universe.*  
 *天地有大美而不言，四时有明法而不议，万物有成理而不说。*  
-*Happily engrossed in deducing the law of nature, why spoil our joy by sheer vanity of the day?*   
+*Happily engrossed in deducing the law of nature, and don't spoil our joy by sheer vanity.*   
 *细推物理须行乐，何用浮名绊此身。*  
 *I can choose what I don't need to know.*  
 *我可以选择我不知道什么。* 
