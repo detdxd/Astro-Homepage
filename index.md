@@ -33,7 +33,7 @@ PhD in Astrophysics (2021.6):  *Astrophysics Division, SHAO, UCAS.*
 Transit (2015.9-2016.6):  *Department of Astronomy, USTC.*  
 BS in Physics (2015.7):  *School of Physics, NWU.*  
 <br/>
-<br/>
+
 ***  
 <br/>
 
@@ -62,7 +62,8 @@ Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](http
   
 work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/), [ky.htu](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
 <br/>
-<br/>
+<br/>  
+
 ***  
 <br/>
 
