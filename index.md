@@ -52,6 +52,7 @@ Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](http
   
 work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/), [ky.htu](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
 <br/>  
+<br/>   
 
 ***  
 <br/>
@@ -72,7 +73,7 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 **A**: 可在[COSMOS](https://astronomy.swin.edu.au/cosmos/) 上搜索查看解释: jets, active galactic nuclei, intra-cluster medium...  
 **Q**: 有什么天体物理入门书可以推荐吗 ?  
 **A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/)，Marc L. Kutner的[《天文学：物理新视野》](https://book.douban.com/subject/1704386/), Dan Maoz的 [*Astrophysics in a Nutshell*](https://book.douban.com/subject/30376208/), 以及 Malcolm S. Longair写的天体物理学史[《宇宙的世纪》](https://book.douban.com/subject/4723774/) 等.  
-<br/>  
+<br/>   
 
 ***  
 <br/>
