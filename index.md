@@ -70,7 +70,7 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 **Q**: 天体流体动力学（Astrophysical Fluid Dynamics）指的是什么 ?  
 **A**: 由于宇宙中的重子物质大部分可近似为等离子体，而等离子体在很多时候可以近似为流体（包括磁流体），因此流体动力学在天体物理中很重要。天体及其环境的演化是典型的多物理过程，而天体流体动力学与一般的流体力学不同的是往往要考虑引力场中的物质辐射、磁场演化，乃至粒子与核过程（如宇宙线、恒星核反应），其应用场景有行星形成与演化、恒星形成与演化、星系形成与演化、宇宙及其中介质的演化，以及各种高能天体物理过程（如黑洞喷流、宇宙线加速、gamma射线爆）等。    
 **Q**: 有什么天体物理入门书籍可以推荐吗 ?  
-**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/)，Marc L. Kutner的[《天文学：物理新视野》](https://book.douban.com/subject/1704386/), Dan Maoz的 [*Astrophysics in a Nutshell*](https://book.douban.com/subject/30376208/), 以及 Malcolm S. Longair写的天体物理学史[《宇宙的世纪》](https://book.douban.com/subject/4723774/) 等。  
+**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/)，Marc L. Kutner的[《天文学：物理新视野》](https://book.douban.com/subject/1704386/), Dan Maoz 的 [*Astrophysics in a Nutshell*](https://book.douban.com/subject/30376208/), 以及 Malcolm S. Longair 写的天体物理学史[《宇宙的世纪》](https://book.douban.com/subject/4723774/) 等。  
 <br/>   
 
 ***  
