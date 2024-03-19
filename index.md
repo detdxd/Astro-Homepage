@@ -27,27 +27,6 @@ BS in Physics (2015.7):  *School of Physics, [NWU](https://www.nwu.edu.cn/).*
 ***  
 <br/>
 
-**Q&A For Students**   
-
-**Q**: 天体物理都有哪些研究方向 ?  
-**A**: 可见'[arxiv](https://arxiv.org/)' 上‘Astrophysics’中的研究领域.  
-**Q**: 天体物理究竟是物理学还是天文学 ?  
-**A**: 存粹从学术角度讲天体物理即是现代天文学的主要内容（传统天文学主要指天体测量和天体力学），同时也是近代物理的几个主要领域之一（其他几个主要领域按物质层次为：粒子物理与核物理，原子分子与光物理，凝聚态物理等）。  
-**Q**: 天体物理与其他物理主要有什么不同 ?  
-**A**: 从实验方面讲天体物理依赖于对天体的天文观测，是一门由观测驱动的学科，而其他物理领域主要由人为操纵的实验驱动。从理论角度来讲，天体物理主要研究天体形成与演化过程中的物理机制，但由于天体环境往往具有极端性，如极端的时空跨度和能量爆发，因此天体物理往往也担任着检验基础物理和发现新物理的重任。另外，值得一提的是随着天文观测进入多信使（multi-messenger，包括各波段电磁波、引力波，以及中微子和宇宙线）时代，天体物理理论研究也将更强调多物理（multi-physics）过程的研究。  
-**Q**: 天体物理中有哪些基本的物理过程 ?  
-**A**: 如引力（包括牛顿引力和广义相对论）、辐射（包括辐射转移、原子分子辐射，以及运动带电粒子辐射等）、流体和等离子体等，如果要做理论研究最重要的也是这三方面，如果要研究宇宙线、早期宇宙学、致密星等，粒子物理与核物理也将变得非常重要.  
-**Q**: 天体流体动力学（Astrophysical Fluid Dynamics）指的是什么 ?  
-**A**: 由于宇宙中的重子物质大部分可近似为等离子体来研究，而等离子体在很多时候可以近似为流体（磁流体）来研究，因此流体动力学（包括磁流体）在天体物理中很重要。天体及其环境的演化是典型的多物理过程，而天体流体动力学与一般的流体力学不同的是往往要考虑引力场中的物质辐射、磁场演化，乃至粒子与核过程（如宇宙线、恒星核反应），其应用场景有行星形成与演化、恒星形成与演化、星系形成与演化、宇宙及其中介质的演化，以及各种高能天体物理过程（如黑洞喷流、宇宙线加速、gamma射线爆）等。  
-**Q**: 什么是活动星系核喷流（AGN jets）, 星系团介质（ICM）...?  
-**A**: 可在[COSMOS](https://astronomy.swin.edu.au/cosmos/) 上搜索查看解释: jets, active galactic nuclei, intra-cluster medium...  
-**Q**: 有什么天体物理入门书可以推荐吗 ?  
-**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/)，Marc L. Kutner的[《天文学：物理新视野》](https://book.douban.com/subject/1704386/), Dan Maoz的 [*Astrophysics in a Nutshell*](https://book.douban.com/subject/30376208/), 以及 Malcolm S. Longair写的天体物理学史[《宇宙的世纪》](https://book.douban.com/subject/4723774/) 等.  
-<br/>  
-
-***  
-<br/>
-
 **Useful Links**     
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
@@ -72,7 +51,27 @@ Coding: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yib
 Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
   
 work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/), [ky.htu](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
+<br/>  
+
+***  
 <br/>
+
+**Q&A For Students**   
+
+**Q**: 天体物理都有哪些研究方向 ?  
+**A**: 可见'[arxiv](https://arxiv.org/)' 上‘Astrophysics’中的研究领域.  
+**Q**: 天体物理究竟是物理学还是天文学 ?  
+**A**: 存粹从学术角度讲天体物理即是现代天文学的主要内容（传统天文学主要指天体测量和天体力学），同时也是近代物理的几个主要领域之一（其他几个主要领域按物质层次为：粒子物理与核物理，原子分子与光物理，凝聚态物理等）。  
+**Q**: 天体物理与其他物理主要有什么不同 ?  
+**A**: 从实验方面讲天体物理依赖于对天体的天文观测，是一门由观测驱动的学科，而其他物理领域主要由人为操纵的实验驱动。从理论角度来讲，天体物理主要研究天体形成与演化过程中的物理机制，但由于天体环境往往具有极端性，如极端的时空跨度和能量爆发，因此天体物理往往也担任着检验基础物理和发现新物理的重任。另外，值得一提的是随着天文观测进入多信使（multi-messenger，包括各波段电磁波、引力波，以及中微子和宇宙线）时代，天体物理理论研究也将更强调多物理（multi-physics）过程的研究。  
+**Q**: 天体物理中有哪些基本的物理过程 ?  
+**A**: 如引力（包括牛顿引力和广义相对论）、辐射（包括辐射转移、原子分子辐射，以及运动带电粒子辐射等）、流体和等离子体等，如果要做理论研究最重要的也是这三方面，如果要研究宇宙线、早期宇宙学、致密星等，粒子物理与核物理也将变得非常重要.  
+**Q**: 天体流体动力学（Astrophysical Fluid Dynamics）指的是什么 ?  
+**A**: 由于宇宙中的重子物质大部分可近似为等离子体来研究，而等离子体在很多时候可以近似为流体（磁流体）来研究，因此流体动力学（包括磁流体）在天体物理中很重要。天体及其环境的演化是典型的多物理过程，而天体流体动力学与一般的流体力学不同的是往往要考虑引力场中的物质辐射、磁场演化，乃至粒子与核过程（如宇宙线、恒星核反应），其应用场景有行星形成与演化、恒星形成与演化、星系形成与演化、宇宙及其中介质的演化，以及各种高能天体物理过程（如黑洞喷流、宇宙线加速、gamma射线爆）等。  
+**Q**: 什么是活动星系核喷流（AGN jets）, 星系团介质（ICM）...?  
+**A**: 可在[COSMOS](https://astronomy.swin.edu.au/cosmos/) 上搜索查看解释: jets, active galactic nuclei, intra-cluster medium...  
+**Q**: 有什么天体物理入门书可以推荐吗 ?  
+**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/)，Marc L. Kutner的[《天文学：物理新视野》](https://book.douban.com/subject/1704386/), Dan Maoz的 [*Astrophysics in a Nutshell*](https://book.douban.com/subject/30376208/), 以及 Malcolm S. Longair写的天体物理学史[《宇宙的世纪》](https://book.douban.com/subject/4723774/) 等.  
 <br/>  
 
 ***  
