@@ -18,10 +18,10 @@ Topics: *AGN Jets, AGN & Stellar Feedback, ICM & CGM...*
 <br/>  
 
 **Experience**  
-Employment (2021.7-):  *School of Physics, [HNU](https://www.htu.edu.cn/).*  
-PhD in Astrophysics (2021.6):  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/).*  
-Transit (2015.9-2016.6):  *Department of Astronomy, [USTC](https://www.ustc.edu.cn/).*  
-BS in Physics (2015.7):  *School of Physics, [NWU](https://www.nwu.edu.cn/).*  
+2021.7-:  *School of Physics, [HNU](https://www.htu.edu.cn/), Xinxiang.*  
+2016.7-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), Shanghai.*  
+2015.9-2016.6:  *Department of Astronomy, [USTC](https://www.ustc.edu.cn/), Hefei.*  
+2011.9-2015.7:  *School of Physics, [NWU](https://www.nwu.edu.cn/), Xi’an.*  
 <br/>
 
 ***  
