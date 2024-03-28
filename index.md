@@ -7,8 +7,8 @@
 <br/>
 
 **Research**       
-Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
 Physical Processes: *Astrophysical Fluid Dynamics.*  
+Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*    
 Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN Jets, AGN Feedback, ICM...*  
 
@@ -17,7 +17,7 @@ Topics: *AGN Jets, AGN Feedback, ICM...*
 <br/>  
 
 **Experience**  
-2021.7-:  *School of Physics, [HNU](https://www.htu.edu.cn/), Xinxiang.*  
+2021.7-Present:  *School of Physics, [HNU](https://www.htu.edu.cn/), Xinxiang.*  
 2016.7-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), Shanghai.*  
 2015.9-2016.6:  *Department of Astronomy, [USTC](https://www.ustc.edu.cn/), Hefei.*  
 2011.9-2015.7:  *School of Physics, [NWU](https://www.nwu.edu.cn/), Xi’an.*  
@@ -29,7 +29,7 @@ Topics: *AGN Jets, AGN Feedback, ICM...*
 **Useful Links**     
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
-Journals:  [ApJ](https://iopscience.iop.org/journal/0004-637X), [ApJL](https://iopscience.iop.org/journal/2041-8205), [ApJS](https://iopscience.iop.org/journal/0067-0049); [A&A](https://www.aanda.org/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [JHEAP](https://www.sciencedirect.com/journal/journal-of-high-energy-astrophysics), [RAA](http://www.raa-journal.org/); [SCPMA](https://www.sciengine.com/SCPMA/home), [PRD](https://journals.aps.org/prd/); [ARAA](https://www.annualreviews.org/journal/astro), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews); [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#).   
+Journals:  [ApJ](https://iopscience.iop.org/journal/0004-637X), [ApJL](https://iopscience.iop.org/journal/2041-8205), [ApJS](https://iopscience.iop.org/journal/0067-0049); [A&A](https://www.aanda.org/), [MNRAS](https://academic.oup.com/mnras/advance-articles), [JHEAP](https://www.sciencedirect.com/journal/journal-of-high-energy-astrophysics), [JCAP](https://iopscience.iop.org/journal/1475-7516), [RAA](http://www.raa-journal.org/); [SCPMA](https://www.sciengine.com/SCPMA/home), [PRD](https://journals.aps.org/prd/); [ARAA](https://www.annualreviews.org/journal/astro), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews); [Nature](https://www.nature.com/), [Science](https://www.sciencemag.org/#).   
 中文期刊: [天文学进展](http://center.shao.ac.cn/twxjz/index.htm), [天文学报](http://www.twxb.org/twxb/home), [中国科学](https://www.scichina.com/), [物理与工程](https://gkwl.cbpt.cnki.net/WKD3/WebPublication/index.aspx?mid=GKWL).      
 AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [APS](https://www.aps.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/), [IUPAP](https://iupap.org/).  
   
