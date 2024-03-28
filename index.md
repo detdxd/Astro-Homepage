@@ -10,7 +10,7 @@
 Astrophysics: *High Energy Astrophysics, Physics of Galaxies.*  
 Physical Processes: *Astrophysical Fluid Dynamics.*  
 Methods: *Numerical Simulation & Analytical Estimation.*   
-Topics: *AGN Jets, AGN & Stellar Feedback, ICM & CGM...*  
+Topics: *AGN Jets, AGN Feedback, ICM...*  
 
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).      
