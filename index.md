@@ -1,8 +1,7 @@
 ***Xiaodong Duan*** (段晓东)  
 <br/>
 
-**Teaching**   
-大学物理      College Physics (Fall).  
+**Teaching**     
 电动力学      Electrodynamics (Spring).  
 天体物理概论   Introduction to Astrophysics (Fall). 
 <br/>
