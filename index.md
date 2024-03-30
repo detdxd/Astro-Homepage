@@ -14,7 +14,7 @@ Topics: *AGN Jets, AGN Feedback, ICM...*
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).      
 
-**Writing Projects** (before retirement)  
+**Writing Projects** (Before retirement)  
 《中学天体物理》   *High School Astrophysics*  
 《天体物理过程》   *Astrophysical Processes*  
 ...   
