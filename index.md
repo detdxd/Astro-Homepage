@@ -3,8 +3,7 @@
 
 **Teaching**     
 电动力学      Electrodynamics (Spring).  
-天体物理概论   Introduction to Astrophysics (Fall). 
-<br/>
+天体物理概论   Introduction to Astrophysics (Fall).   
 
 **Research**       
 Physical Processes: *Astrophysical Fluid Dynamics.*  
@@ -14,7 +13,6 @@ Topics: *AGN Jets, AGN Feedback, ICM...*
 
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).      
-<br/>  
 
 **Writing Projects** (before retirement)  
 《中学天体物理》   *High School Astrophysics*  
