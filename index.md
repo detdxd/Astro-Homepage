@@ -14,11 +14,6 @@ Topics: *AGN Jets, AGN Feedback, ICM...*
 **Publications**  
 [OCRID](https://orcid.org/0000-0002-6921-1899).      
 
-**Writing Projects**  (Before retirement)  
-《中学天体物理》   *High School Astrophysics*  
-《天体物理过程》   *Astrophysical Processes*  
-...   
-
 **Experience**  
 2021.7-Present:  *School of Physics, [HNU](https://www.htu.edu.cn/).*  
 2016.7-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/).*  
