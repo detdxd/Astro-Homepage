@@ -66,7 +66,7 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 **A**: 天体辐射机制主要涉及辐射转移、运动带电粒子辐射和原子分子辐射等。至于天体流体动力学，由于宇宙中的重子物质大部分可近似为等离子体，而等离子体在很多时候可以近似为流体或磁流体，因此流体动力学在天体物理理论中很重要。天体流体动力学与一般所说的流体力学不同的是往往要考虑引力场中的物质辐射、磁场演化，乃至粒子与核过程（如宇宙线、恒星核反应），其应用场景涉及行星、恒星、星系和宇宙等各层次天体的形成与演化，以及各种高能天体物理过程（如黑洞吸积与喷流、宇宙线加速、伽玛射线爆等）。  
 
 **Q**: 有什么天体物理入门书籍可以推荐吗 ?  
-**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/)，Marc L. Kutner 的[《天文学：物理新视野》](https://book.douban.com/subject/1704386/), Dan Maoz 的 [*Astrophysics in a Nutshell*](https://book.douban.com/subject/30376208/), Bradley W. Carroll 的[《当代天体物理学导论》](https://book.douban.com/subject/36736690/) 以及 Martin Harwit 的 [*Astrophysical Concepts*](https://book.douban.com/subject/10123950/)(《天体物理概念》)等。  
+**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/), B.W. Carroll 的[《当代天体物理学导论》](https://book.douban.com/subject/36736690/) 以及 M. Harwit 的 [*Astrophysical Concepts*](https://book.douban.com/subject/10123950/)(《天体物理概念》)等。  
 <br/>   
 
 ***  
