@@ -3,8 +3,7 @@
 
 **Teaching**     
 电动力学   Electrodynamics (Spring).  
-天体物理概论   Introduction to Astrophysics (Fall).
-高能天体物理导论   Introduction to High Energy Astrophysics (Fall).   
+天体物理概论   Introduction to Astrophysics (Fall).  
 
 **Research**       
 Physical Processes: *Astrophysical Fluid Dynamics.*  
