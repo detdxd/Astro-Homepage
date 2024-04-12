@@ -74,10 +74,10 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 
 **Academic mottoes**  
   
-*There is great beauty in nature, clear patterns throughout the seasons, and everything is justified in this silent universe.*  
+*There is great beauty in nature, clear patterns throughout the seasons, and everything is justified in this silent universe. —— Zhuangzi*  
 *天地有大美而不言，四时有明法而不议，万物有成理而不说。——《庄子》*  
-*Be happily engrossed in deducing the law of nature, and don't spoil our joy with sheer vanity.*   
+*Be happily engrossed in deducing the law of nature, and don't spoil our joy with sheer vanity. —— Du Fu*   
 *细推物理须行乐，何用浮名绊此身。—— 杜甫*  
-*I can choose what I don't need to know.*  
-*我可以选择我不知道什么。—— 尼采（据传）* 
+*I can choose what I don't need to know. —— Anonym*  
+*我可以选择我不知道什么。—— 佚名* 
 
