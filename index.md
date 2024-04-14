@@ -81,5 +81,5 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 *I can choose what I don't need to know. —— Anonym*  
 *我可以选择我不知道什么。—— 佚名*   
 
-![avatar](https://github.com/detdxd/Astro-Homepage/blob/master/phyp.png)
+[phyp](https://github.com/detdxd/Astro-Homepage/blob/master/phyp.png)
 
