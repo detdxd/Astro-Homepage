@@ -30,9 +30,9 @@
 <br/>
 
 **Teaching**     
-大学物理   College Physics (Fall).  
-电动力学   Electrodynamics (Spring).  
-天体物理概论   Introduction to Astrophysics (Fall).  
+大学物理   College Physics (Fall, 2022, 2023).  
+电动力学   Electrodynamics (Spring, 2023, 2024).  
+天体物理概论   Introduction to Astrophysics (Fall, 2023).  
 
 **Research**       
 Physical Processes: *Astrophysical Fluid Dynamics.*  
