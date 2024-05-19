@@ -1,6 +1,3 @@
-**Xiaodong Duan** (段晓东)
-<br/>
-
 **Q & A For Students**（天体物理简介）    
 
 **Q**: 天体物理都有哪些研究方向 ?  
@@ -27,6 +24,8 @@
 <br/>   
 
 ***  
+<br/>
+**Xiaodong Duan** (段晓东)
 <br/>
 
 **Teaching**   
@@ -75,8 +74,7 @@ Coding: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yib
 Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
   
 work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/), [ky.htu](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).
-<br/>  
-<br/>   
+<br/>    
 
 ***  
 <br/>
