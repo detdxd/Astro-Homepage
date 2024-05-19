@@ -1,4 +1,4 @@
-**Q & A For Students** 学生问答-天体物理简介  
+**Q & A For Students**  
 
 **Q**: 天体物理都有哪些研究方向 ?  
 **A**: 可见'[arxiv](https://arxiv.org/)' 上‘Astrophysics’中的研究领域.  
@@ -26,7 +26,7 @@
 ***  
 <br/>
 
-**Xiaodong Duan** 段晓东   
+**Xiaodong Duan** （段晓东）  
 
 **Teaching**   
 大学物理   College Physics (Fall, 2022-2023).  
@@ -50,7 +50,7 @@ Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).
 ***  
 <br/>
 
-**Useful Links**   常用链接  
+**Useful Links**  
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
 Journals:  [A&A](https://www.aanda.org/), [ApJ](https://iopscience.iop.org/journal/0004-637X) ([L](https://iopscience.iop.org/journal/2041-8205), [S](https://iopscience.iop.org/journal/0067-0049)), [MNRAS](https://academic.oup.com/mnras/advance-articles), [RAA](http://www.raa-journal.org/); [JCAP](https://iopscience.iop.org/journal/1475-7516), [JHEAP](https://www.sciencedirect.com/journal/journal-of-high-energy-astrophysics); [PRD](https://journals.aps.org/prd/), [SCPMA](https://www.sciengine.com/SCPMA/home); [ARAA](https://www.annualreviews.org/journal/astro), [AAR](https://link.springer.com/journal/159), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews).   
@@ -79,7 +79,7 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 ***  
 <br/>
 
-**Academic mottoes**  学术谚语  
+**Academic mottoes**  
   
 *There is great beauty in nature, clear patterns throughout the seasons, and everything is justified in this silent universe. —— Zhuangzi*  
 *天地有大美而不言，四时有明法而不议，万物有成理而不说。——《庄子》*  
