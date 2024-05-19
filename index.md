@@ -1,7 +1,7 @@
-***Xiaodong Duan*** (段晓东)  
+**段晓东** (Xiaodong Duan)
 <br/>
 
-**Q & A For Students**   
+**学生问答**（天体物理简介）  Q & A For Students  
 
 **Q**: 天体物理都有哪些研究方向 ?  
 **A**: 可见'[arxiv](https://arxiv.org/)' 上‘Astrophysics’中的研究领域.  
@@ -13,7 +13,7 @@
 **A**: 天体辐射机制主要涉及辐射转移、运动带电粒子辐射和原子分子辐射等。至于天体流体动力学，由于宇宙中的重子物质大部分可近似为等离子体，而等离子体在很多时候可以近似为流体或磁流体，因此流体动力学在天体物理理论中很重要。天体流体动力学与一般所说的流体力学不同的是往往要考虑引力场中的物质辐射、磁场演化，乃至粒子与核过程（如宇宙线、恒星核反应），其应用场景涉及行星、恒星、星系和宇宙等各层次天体的形成与演化，以及各种高能天体物理过程（如黑洞吸积与喷流、超新星爆发、宇宙线加速、伽玛射线爆等）。  
 
 **Q**: 天体物理一般要学什么课程 ？  
-**A**: 我国天体物理的专业培养划分在天文专业下，一般天文专业的本科课程就是物理专业必修课+几门天文基础课（课表在天文专业相关学校院系主页上一般都能找到），因此有些学校本科天文实际是以“物理学类”招生，然后再进行分流培养。对于天体物理专业来说，从本科到研究生大致的课程学习路径如下：  
+**A**: 在我国天体物理被划分在天文学下([ACGE](https://www.acge.org.cn/encyclopediaFront/enterEncyclopediaIndex))，但一般天文专业的本科课程就是物理专业必修课+几门天文基础课（课表在天文专业相关学校院系主页上一般都能找到），因此有些学校本科天文实际是以“物理学类”招生，然后再进行分流培养。就天体物理学习专业来说，从本科到研究生大致的课程学习路径如下：  
 1. 数学基础：微积分、线性代数、数理方法、数值方法（计算物理）；  
 2. 普通物理（归纳法）：经典物理基础（力热电光）、近代物理导论、普通物理实验；  
 3. 理论物理基础（演绎法）：分析力学、电动力学、量子力学、统计物理；  
@@ -29,31 +29,26 @@
 ***  
 <br/>
 
-**Teaching**     
+**教学** Teaching  
 大学物理   College Physics (Fall, 2022-2023).  
 电动力学   Electrodynamics (Spring).  
 天体物理概论   Introduction to Astrophysics (Roll).  
 
-**Research**       
+**研究** Research  
 Physical Processes: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*    
 Methods: *Numerical Simulation & Analytical Estimation.*   
 Topics: *AGN Jets, AGN Feedback, ICM...*  
+Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).      
 
-**Publications**  
-[OCRID](https://orcid.org/0000-0002-6921-1899).      
-
-**Experience**  
+**经历**  Experience  
 2021.7-Present:  *School of Physics, [HNU](https://www.htu.edu.cn/).*  
 2016.7-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/).*  
 2015.9-2016.6:  *Department of Astronomy, [USTC](https://www.ustc.edu.cn/).*  
 2011.9-2015.7:  *School of Physics, [NWU](https://www.nwu.edu.cn/).*   
 <br/>
 
-***  
-<br/>
-
-**Useful Links**     
+**常用链接**  Useful Links  
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
 Journals:  [A&A](https://www.aanda.org/), [ApJ](https://iopscience.iop.org/journal/0004-637X) ([L](https://iopscience.iop.org/journal/2041-8205), [S](https://iopscience.iop.org/journal/0067-0049)), [MNRAS](https://academic.oup.com/mnras/advance-articles), [RAA](http://www.raa-journal.org/); [JCAP](https://iopscience.iop.org/journal/1475-7516), [JHEAP](https://www.sciencedirect.com/journal/journal-of-high-energy-astrophysics); [PRD](https://journals.aps.org/prd/), [SCPMA](https://www.sciengine.com/SCPMA/home); [ARAA](https://www.annualreviews.org/journal/astro), [AAR](https://link.springer.com/journal/159), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews).   
@@ -83,7 +78,7 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 ***  
 <br/>
 
-**Academic mottoes**  
+**学术谚语**  Academic mottoes  
   
 *There is great beauty in nature, clear patterns throughout the seasons, and everything is justified in this silent universe. —— Zhuangzi*  
 *天地有大美而不言，四时有明法而不议，万物有成理而不说。——《庄子》*  
