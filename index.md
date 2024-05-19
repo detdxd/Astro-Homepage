@@ -48,6 +48,9 @@ Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).
 2011.9-2015.7:  *School of Physics, [NWU](https://www.nwu.edu.cn/).*   
 <br/>
 
+***  
+<br/>
+
 **Useful Links**    
 
 Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [web of science](https://apps.webofknowledge.com/), [sci-hub](https://sci-hub.se/).  
