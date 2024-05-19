@@ -1,4 +1,4 @@
-**段晓东** (Xiaodong Duan)
+***段晓东*** (Xiaodong Duan)
 <br/>
 
 **学生问答**（天体物理简介）  Q & A For Students  
