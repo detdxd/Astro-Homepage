@@ -26,9 +26,7 @@
 ***  
 <br/>
 
-**Xiaodong Duan** (段晓东)
-
-<br/>
+**Xiaodong Duan** (段晓东)   
 
 **Teaching**   
 大学物理   College Physics (Fall, 2022-2023).  
