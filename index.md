@@ -20,7 +20,7 @@
 7. 天体物理方法（选）：天文数据处理、计算天体物理。  
 
 **Q**: 有什么天体物理入门书籍可以推荐吗 ?  
-**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/), B.W. Carroll 的[《当代天体物理学导论》](https://book.douban.com/subject/36736690/) 以及 M. Harwit 的 [*Astrophysical Concepts*](https://book.douban.com/subject/10123950/) (《天体物理概念》)等。  
+**A**: 如向守平老师的[《天体物理概论》](https://book.douban.com/subject/3353501/), M.L.Kutner的[《天文学：物理新视野》](https://book.douban.com/subject/1704386/) 和 B.W. Carroll 的[《当代天体物理学导论》](https://book.douban.com/subject/36736690/)。  
 <br/>   
 
 ***  
