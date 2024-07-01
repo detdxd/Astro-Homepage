@@ -29,10 +29,10 @@
 **Xiaodong Duan** （段晓东）  
 
 **Teaching**   
-大学物理   College Physics (Fall, 2022-2023).  
-电动力学   Electrodynamics (Spring).  
-天体物理概论   Introduction to Astrophysics (Roll).  
-高能天体物理导论   Introduction to High Energy Astrophysics (Fall).  
+College Physics (Fall, 2022-2023).  
+Electrodynamics (Spring).  
+Introduction to Astrophysics (Roll).  
+Introduction to High Energy Astrophysics (Fall).  
 Recommended Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research**   
