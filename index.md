@@ -29,11 +29,11 @@
 **Xiaodong Duan** （段晓东）  
 
 **Teaching**   
-College Physics (Fall, 2022-2023).  
-Electrodynamics (Spring).  
-Introduction to Astrophysics (Roll).  
-Introduction to High Energy Astrophysics (Fall).  
-Recommended Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
+大学物理, College Physics, Fall 2022-2023.  
+电动力学, Electrodynamics, Spring 2023-Present.  
+天体物理概论, Introduction to Astrophysics, Roll 2023-Present.  
+高能天体物理导论, Introduction to High Energy Astrophysics, Fall 2024-Present.  
+Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research**   
 Physical Processes: *Astrophysical Fluid Dynamics.*  
@@ -82,12 +82,17 @@ work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.
 <br/>
 
 **Academic mottoes**  
-  
-*There is great beauty in nature, clear patterns throughout the seasons, and everything is justified in this silent universe. —— Zhuangzi*  
-*天地有大美而不言，四时有明法而不议，万物有成理而不说。——《庄子》*  
-*Be happily engrossed in deducing the law of nature, and don't spoil our joy with sheer vanity. —— Du Fu*   
-*细推物理须行乐，何用浮名绊此身。—— 杜甫*  
-*I can choose what I don't need to know. —— Anonym*  
-*我可以选择我不知道什么。—— 佚名*   
+
+*天地有大美而不言，四时有明法而不议，万物有成理而不说——《庄子》*  
+   
+*细推物理须行乐，何用浮名绊此身—— 杜甫*  
+
+*学而不思则罔，思而不学则怠——《论语》*  
+
+*为学日益，为道日损——《老子》*  
+
+*吾生也有涯，而知也无涯，以有涯随无涯，殆已——《庄子》*  
+
+*我可以选择我不知道什么—— 尼采？*
 
 
