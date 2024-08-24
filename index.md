@@ -32,8 +32,10 @@
 **Xiaodong Duan** （段晓东）  
 
 **Teaching**   
-College Physics, Electrodynamics;  
-Introduction to Astrophysics, Introduction to High Energy Astrophysics.  
+College Physics;   
+Electrodynamics;   
+Introduction to Astrophysics;  
+Introduction to High Energy Astrophysics.  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research**   
