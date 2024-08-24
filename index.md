@@ -32,10 +32,8 @@
 **Xiaodong Duan** （段晓东）  
 
 **Teaching**   
-College Physics, Fall 2022-2023.  
-Electrodynamics, Spring 2023-Present.  
-Introduction to Astrophysics, Roll 2023-Present.  
-Introduction to High Energy Astrophysics, Fall 2024-Present.  
+College Physics, Electrodynamics;  
+Introduction to Astrophysics, Introduction to High Energy Astrophysics.  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research**   
