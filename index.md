@@ -17,9 +17,9 @@ Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).
 
 **Experience**    
 2021.7-Present:  *School of Physics, [HNU](https://www.htu.edu.cn/), Teacher.*  
-2015.9-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/), Graduate Student (M.S.-Ph.D).*  
-2015.9-2016.6:  *Department of Astronomy, [USTC](https://www.ustc.edu.cn/), Graduate Student (Entrusted).*  
-2011.9-2015.7:  *School of Physics, [NWU](https://www.nwu.edu.cn/), Undergraduate Student.*   
+2015.9-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/), PhD.*  
+2015.9-2016.6:  *Department of Astronomy, [USTC](https://www.ustc.edu.cn/).*  
+2011.9-2015.7:  *School of Physics, [NWU](https://www.nwu.edu.cn/), BSc.*   
 <br/>
 
 ***  
