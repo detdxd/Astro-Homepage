@@ -4,15 +4,14 @@
 **Teaching**   
 College Physics (2022-2023);   
 Electrodynamics (2023-Present);   
-Introduction to Astrophysics (2023-Present);  
-Introduction to High Energy Astrophysics (2024-Present).  
+Introduction to Astrophysics (2023-Present).  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research**   
 Physical Processes: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*    
 Methods: *Numerical Simulation, Analytical Estimation.*   
-Topics: *AGN Feedback, AGN Jets, ICM ...*  
+Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).      
 
 **Experience**    
