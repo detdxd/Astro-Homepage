@@ -17,10 +17,10 @@ Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*
 **Research Experience**  
 2023-2024 : Formation of Giant Radio Sources in Galaxy Clusters (Duan et al. 2024, submitted).  
 2022-2023 : Cold Filaments Formed in Hot Wake Flows Uplifted by AGN Bubbles (Duan & Guo 2024).  
-2021-2022 : Stellar Feedback in CGM of Elliptical Galaxies (no good new results).  
+2021-2022 : Stellar Feedback in CGM of Elliptical Galaxies (went nowhere).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2024).  
 2016-2018 : AGN Jet Feedback in ICM (Guo et al. 2018; Duan & Guo 2018).  
-2014-2015 : Quintessence Models of Dark Enenrgy (no good new results).  
+2014-2015 : Quintessence Models of Dark Enenrgy (went nowhere).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
   
