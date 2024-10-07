@@ -7,21 +7,24 @@ Electrodynamics (2023-Present);
 Introduction to Astrophysics (2023-Present).  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
-**Research**   
+**Research Interests**   
 Physical Processes: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*    
 Methods: *Numerical Simulation, Analytical Estimation.*   
 Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*  
-Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).   
 
+  
 **Research Experience**  
 2023-2024 : Formation of Giant Radio Sources in Galaxy Clusters (Duan et al. 2024, submitted).  
 2022-2023 : Cold Filaments Formed in Hot Wake Flows Uplifted by AGN Bubbles (Duan & Guo 2024).  
 2021-2022 : Stellar Feedback in CGM of Elliptical Galaxies (no good new results).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2024).  
-2016-2018 : AGN Jet Feedback in Galaxy Clusters (Guo et al. 2018); Metal-rich Trailing Outflows Uplifted by AGN Bubbles (Duan & Guo 2018).  
+2016-2018 : AGN Jet Feedback in Galaxy Clusters (Guo et al. 2018);   
+            Metal-rich Trailing Outflows Uplifted by AGN Bubbles (Duan & Guo 2018).  
 2014-2015 : Quintessence Models of Dark Enenrgy (no good new results).  
+Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
+  
 **Experience**    
 2021.7-Present:  *School of Physics, [HNU](https://www.htu.edu.cn/), Teacher.*  
 2015.9-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/), PhD in Astrophysics.*  
