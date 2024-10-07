@@ -19,8 +19,7 @@ Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*
 2022-2023 : Cold Filaments Formed in Hot Wake Flows Uplifted by AGN Bubbles (Duan & Guo 2024).  
 2021-2022 : Stellar Feedback in CGM of Elliptical Galaxies (no good new results).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2024).  
-2016-2018 : AGN Jet Feedback in Galaxy Clusters (Guo et al. 2018);   
-            Metal-rich Trailing Outflows Uplifted by AGN Bubbles (Duan & Guo 2018).  
+2016-2018 : AGN Jet Feedback and Metal-rich Trailing Outflows of AGN Bubbles (Guo et al. 2018; Duan & Guo 2018).  
 2014-2015 : Quintessence Models of Dark Enenrgy (no good new results).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
