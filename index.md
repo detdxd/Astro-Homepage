@@ -20,7 +20,7 @@ Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*
 2021-2022 : Stellar Feedback in CGM of Elliptical Galaxies (went nowhere).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2024).  
 2016-2018 : AGN Jet Feedback in ICM (Guo et al. 2018; Duan & Guo 2018).  
-2014-2015 : Quintessence Models of Dark Enenrgy (went nowhere).  
+2014-2015 : Quintessence Model of Dark Enenrgy (went nowhere).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
   
