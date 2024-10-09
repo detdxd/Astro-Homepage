@@ -3,7 +3,7 @@
 
 **Teaching**   
 College Physics (2022-2023);   
-Electrodynamics (2023-Present);   
+Electrodynamics (2022-Present);   
 Introduction to Astrophysics (2023-Present).  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
