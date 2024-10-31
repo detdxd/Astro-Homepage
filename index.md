@@ -21,18 +21,9 @@ Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
 2016-2018 : AGN Jet Feedback in ICM (Guo et al. 2018; Duan & Guo 2018).  
 2014-2015 : Quintessence Model of Dark Energy (no novel results).  
-Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
-
-  
-**Experience**    
-2021.7-Present:  *School of Physics, [HNU](https://www.htu.edu.cn/), Teacher.*  
-2015.9-2021.6:  *Astrophysics Division, [SHAO](http://www.shao.ac.cn/), [UCAS](https://www.ucas.ac.cn/), PhD in Astrophysics.*  
-2015.9-2016.6:  *Department of Astronomy, [USTC](https://www.ustc.edu.cn/), Commissioned Student.*  
-2011.9-2015.7:  *School of Physics, [NWU](https://www.nwu.edu.cn/), BSc in Physics.*   
-
+Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).    
 
 <br/>
-
 ***  
 <br/>
 
