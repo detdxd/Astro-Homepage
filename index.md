@@ -3,8 +3,8 @@
 
 **Teaching**   
 College Physics (2022-2023);   
-Electrodynamics (2022-Present);   
-Introduction to Astrophysics (2023-Present).  
+Electrodynamics (2022-present);   
+Introduction to Astrophysics (2023-present).  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research Interests**   
@@ -15,7 +15,7 @@ Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*
 
   
 **Research Experience**  
-2023-2024 : Formation of Giant Radio Sources in Galaxy Clusters (Duan et al. 2024, submitted).  
+2023-present : Formation of Giant Radio Sources (Duan et al. 2024, submitted; ...).  
 2022-2023 : Cold Filaments in Hot Wake Flows of AGN Bubbles (Duan & Guo 2024).  
 2020-2021 : Stellar Feedback in CGM of Elliptical Galaxies (no novel results).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
