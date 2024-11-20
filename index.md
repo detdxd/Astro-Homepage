@@ -10,7 +10,7 @@ Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](http
 **Research Interests**   
 Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*    
 Methods: *Numerical Simulation, Analytical Estimation.*   
-Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*  
+Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, IGM, CGM...*  
 
   
 **Research Experience**  
