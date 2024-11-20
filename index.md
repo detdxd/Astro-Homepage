@@ -8,7 +8,6 @@ Introduction to Astrophysics (2023-present).
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research Interests**   
-Physical Processes: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*    
 Methods: *Numerical Simulation, Analytical Estimation.*   
 Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM...*  
