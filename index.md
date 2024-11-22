@@ -1,7 +1,7 @@
 
 **Xiaodong Duan** （段晓东）  
 
-**Teaching**   
+**Teaching Experience**   
 College Physics (2022-2023);   
 Electrodynamics (2022-present);   
 Introduction to Astrophysics (2023-present).  
