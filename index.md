@@ -1,7 +1,7 @@
 
 **Xiaodong Duan** （段晓东）  
 
-**Teaching Experience**   
+**Teaching Experiences**   
 College Physics (2022-2023);   
 Electrodynamics (2022-present);   
 Introduction to Astrophysics (2023-present).  
@@ -13,7 +13,7 @@ Methods: *Numerical Simulation, Analytical Estimation.*
 Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, IGM, CGM...*  
 
   
-**Research Experience**  
+**Research Experiences**  
 2023-present : Formation of Giant Radio Sources (Duan et al. 2024, submitted; ...).  
 2022-2023 : Cold Filaments in Hot Wake Flows of AGN Bubbles (Duan & Guo 2024).  
 2020-2021 : Stellar Feedback in CGM of Elliptical Galaxies (no novel results).  
