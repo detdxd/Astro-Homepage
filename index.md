@@ -1,7 +1,13 @@
 
 **Xiaodong Duan** （段晓东）  
 
-**Teaching Experiences**   
+**Experiences**  
+2021.7 to present: Henan Normal University, Employment.  
+2015.9-2021.6: Shanghai Astronomical Observatory, PhD in Astrophysics.  
+2015.9-2016.6: University of Science and Technology of China, Studied Astronomy.  
+2011.9-2015.6: Northwest University, BSc in Physics.  
+
+**Teaching**   
 大学物理 College Physics (2022-2023);   
 电动力学 Electrodynamics (2022-present);   
 天体物理概论 Introduction to Astrophysics (2023-present).  
@@ -20,7 +26,7 @@ Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, IGM, CGM...*
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
 2016-2018 : AGN Jet Feedback in ICM (Guo et al. 2018; Duan & Guo 2018).  
 2014-2015 : Quintessence Model of Dark Energy (BSc thesis).  
-Experiences & Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).    
+Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).    
 
 <br/>
 
