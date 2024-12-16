@@ -17,7 +17,7 @@ Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](http
 Physical Processes: *Astrophysical Fluid Dynamics.*  
 Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*  
 Methods: *Numerical Simulation, Analytical Estimation.*   
-Topics: *AGN Feedback, AGN Jets, Radio Galaxies, ICM, CGM, IGM...*  
+Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*  
 
   
 **Research Experiences**  
