@@ -4,7 +4,7 @@
 **Experiences**  
 2021.7 to present: Henan Normal University, Employment.  
 2015.9-2021.6: Shanghai Astronomical Observatory, PhD in Astrophysics.  
-2015.9-2016.6: University of Science and Technology of China, Studied Astronomy.  
+2015.9-2016.6: University of Science and Technology of China, Studied Astrophysics.  
 2011.9-2015.6: Northwest University, BSc in Physics.  
 
 **Teaching**   
