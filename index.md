@@ -1,11 +1,6 @@
 
 **Xiaodong Duan** （段晓东）  
 
-**Experiences**  
-2021.7 to present: Henan Normal University, Employment.  
-2015.9-2021.6: Shanghai Astronomical Observatory, PhD in Astrophysics.  
-2015.9-2016.6: University of Science and Technology of China, Studied Astrophysics.  
-2011.9-2015.6: Northwest University, BSc in Physics.  
 
 **Teaching**   
 大学物理 College Physics (2022-2023);   
@@ -13,8 +8,9 @@
 天体物理概论 Introduction to Astrophysics (2023-present).  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
+
 **Research Interests**         
-Astrophysics: *High Energy Astrophysics, Astrophysics of Galaxies.*  
+Fields: *High Energy Astrophysics, Astrophysics of Galaxies.*  
 Methods: *Numerical Simulation, Analytical Estimation.*   
 Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*  
 
@@ -28,6 +24,12 @@ Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*
 2014-2015 : Quintessence Model of Dark Energy (BSc thesis).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).    
 
+
+**Experiences**  
+2021.7 to present: Henan Normal University, Employment.  
+2015.9-2021.6: Shanghai Astronomical Observatory, PhD in Astrophysics.  
+2015.9-2016.6: University of Science and Technology of China, Studied Astrophysics.  
+2011.9-2015.6: Northwest University, BSc in Physics.  
 <br/>
 
 ***  
