@@ -3,9 +3,9 @@
 
 
 **Teaching**   
-大学物理 College Physics (2022-2023);   
-电动力学 Electrodynamics (2022-present);   
-天体物理概论 Introduction to Astrophysics (2023-present).  
+大学物理 College Physics (2022F-2023F, Lecturer);   
+电动力学 Electrodynamics (2022S, TA; 2023S-present, Lecturer);   
+天体物理概论 Introduction to Astrophysics (2023F-present, Lecturer).  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 
