@@ -16,7 +16,7 @@ Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*
 
   
 **Research Experiences**  
-2023-present : Formation of Giant Radio Sources (Duan et al. 2024, submitted; ...).  
+2023-2024 : Formation of Giant Radio Sources in Galaxy Clusters (Duan et al. 2024, submitted).  
 2022-2023 : Cold Filaments in Hot Wake Flows of AGN Bubbles (Duan & Guo 2024).  
 2020-2021 : Stellar Feedback in CGM of Elliptical Galaxies (shelved).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
