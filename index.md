@@ -17,7 +17,7 @@ Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*
 
   
 **Research Experiences**  
-2023-2024 : Formation of Giant Radio Sources in Galaxy Clusters (Duan et al. 2024, submitted).  
+2023-present : Formation of Giant Radio Sources (Duan et al. 2024, submitted;...).  
 2022-2023 : Cold Filaments in Hot Wake Flows of AGN Bubbles (Duan & Guo 2024).  
 2020-2021 : Stellar Feedback in CGM of Elliptical Galaxies (shelved).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
@@ -27,7 +27,7 @@ Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).
 
 
 **Experiences**  
-2021.7 to present: Henan Normal University, Employment.  
+2021.7-present: Henan Normal University, Employment.  
 2015.9-2021.6: Shanghai Astronomical Observatory, PhD in Astrophysics.  
 2015.9-2016.6: University of Science and Technology of China, Studied Astrophysics.  
 2011.9-2015.6: Northwest University, BSc in Physics.  
