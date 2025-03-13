@@ -23,7 +23,7 @@ Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
 2016-2018 : AGN Jet Feedback in ICM (Guo et al. 2018; Duan & Guo 2018).  
 2014-2015 : Quintessence Model of Dark Energy (BSc thesis).  
-Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).    
+Publications: [OCRID](https://orcid.org/0000-0002-6921-1899); [Corrections or Improvements](https://github.com/detdxd/Astro-Homepage/blob/master/Correction-OR-Improvement.pdf)  
 
 
 **Experiences**  
