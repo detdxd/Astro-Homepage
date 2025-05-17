@@ -10,13 +10,13 @@ Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](http
 
 
 **Research Interests**         
-Fields: *Astrophysics of Galaxies, High Energy Astrophysics.*  
+Fields: *High Energy Astrophysics, Astrophysics of Galaxies.*  
 Methods: *Numerical Simulation, Analytical Estimation.*   
 Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*  
 
   
 **Research Experiences**  
-2024-present : Formation of Giant Radio Sources (Duan et al. 2025;...).  
+2024-present : Giant Radio Sources (Duan et al. 2025;...).  
 2022-2023 : Cold Filaments in Hot Wake Flows of AGN Bubbles (Duan & Guo 2024).  
 2020-2021 : Stellar Feedback in CGM of Elliptical Galaxies (shelved).  
 2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
