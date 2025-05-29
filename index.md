@@ -16,11 +16,9 @@ Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*
 
   
 **Research Experiences**  
-2024-present : Giant Radio Sources (Duan et al. 2025;...).  
-2022-2023 : Cold Filaments in Hot Wake Flows of AGN Bubbles (Duan & Guo 2024).  
-2020-2021 : Stellar Feedback in CGM of Elliptical Galaxies (shelved).  
-2019-2020 : Energy Coupling Efficiency of AGN Outbursts (Duan & Guo 2020).  
-2016-2018 : AGN Jet Feedback in ICM (Guo et al. 2018; Duan & Guo 2018).  
+2024-present : Giant Radio Sources (Duan et al. 2025;...).    
+2020-2021 : Stellar Feedback (shelved).  
+2016-2023 : AGN Jet Feedback in ICM (Guo et al. 2018; Duan & Guo 2018,2020,2024).  
 2014-2015 : Quintessence Model of Dark Energy (BSc thesis).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).    
 
