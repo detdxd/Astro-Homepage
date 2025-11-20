@@ -15,13 +15,10 @@ Methods: *Numerical Simulation, Analytical Estimation.*
 Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*  
 
   
-**Research Experiences**  
-2024-present : Formation of Giant Radio Sources (Duan et al. 2025;...).    
-2022-2023 : Cold Filaments in Hot Wake Flows Uplifted by AGN Bubbles (Duan & Guo 2024).  
-2020-2021 : Stellar Feedback and Multiphase Gas in CGM (shelved).  
-2018-2019 : Energy Coupling Efficiency of AGN Outbursts in ICM (Duan & Guo 2020).  
-2017-2018 : Gasdynamical Processes in AGN Feedback (Guo et al. 2018; Duan & Guo 2018).  
-2014-2015 : Quintessence Model of Dark Energy (BSc thesis).  
+**Academic Contributions**  
+Completing the first MHD numerical simulation of formation of giant radio sources and proposing the "lower power-larger bubble effect" to describe jet–ambient medium interaction (Duan et al. 2025);  
+Calculating the energy coupling efficiency of AGN jet feedback (Duan & Guo 2020);  
+Calculating the physical characteristics of the wake flows of AGN bubbles (Duan & Guo 2018, 2024).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).    
 
 <br/>
