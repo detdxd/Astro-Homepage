@@ -20,10 +20,10 @@ Estimated the mass and computed the related physical characteristics of the wake
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
 **Experiences**  
-2021.07 to present: School of Physics, Henan Normal University, employment;  
-2015.09-2021.06: Shanghai Astronomical Observatory, PhD in Astrophysics;  
+2021.07 to present: Henan Normal University, employment;  
+2015.09-2021.06: Shanghai Astronomical Observatory, PhD in astrophysics;  
 2015.09-2016.06: University of Science and Technology of China, studied astrophysics;  
-2011.09-2015.06: School of Physics, Northwest University, BS in physics.
+2011.09-2015.06: Northwest University, BS in physics.
 
 <br/>
 
