@@ -14,7 +14,7 @@ Methods: *Numerical Simulation, Analytical Estimation.*
 Topics: *AGN Feedback, AGN Jets, ICM, CGM, IGM...*  
   
 **Academic Contributions**  
-Conducted the first MHD simulation of giant radio source formation and proposed the 'lower power-larger bubble effect' for jetted bubble evolution (Duan et al. 2025);  
+Conducted the MHD simulation of giant radio source formation and proposed the 'lower power-larger bubble effect' for jetted lobe evolution (Duan et al. 2025);  
 Estimated and clarified the energy coupling efficiency of spherical outbursts, computed the energy coupling efficiency of AGN jet feedback (Duan & Guo 2020);  
 Estimated the mass and computed the related physical characteristics of the wake flows of AGN bubbles (Duan & Guo 2018, 2024).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
