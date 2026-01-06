@@ -19,12 +19,6 @@ Estimated and clarified the energy coupling efficiency of spherical outbursts, c
 Estimated the mass and computed the related physical characteristics of the wake flows of AGN bubbles (Duan & Guo 2018, 2024).  
 Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).  
 
-**Experiences**  
-2021.07 to present: Henan Normal University, employment;  
-2015.09-2021.06: Shanghai Astronomical Observatory, PhD in astrophysics;  
-2015.09-2016.06: University of Science and Technology of China, studied astrophysics;  
-2011.09-2015.06: Northwest University, BS in physics.
-
 <br/>
 
 ***  
@@ -33,7 +27,7 @@ Publications: [OCRID](https://orcid.org/0000-0002-6921-1899).
 
 **Useful Links**  
 
-Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [ads](https://ui.adsabs.harvard.edu/), [inspire](https://inspirehep.net/), [web of science](https://apps.webofknowledge.com/), [dbdata](https://dbdata.com/search/), [sci-hub](https://sci-hub.se/).  
+Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [SciX](https://scixplorer.org/), [inspire](https://inspirehep.net/), [web of science](https://apps.webofknowledge.com/), [dbdata](https://dbdata.com/search/), [sci-hub](https://sci-hub.se/).  
 Journals:  [A&A](https://www.aanda.org/), [ApJ](https://iopscience.iop.org/journal/0004-637X) ([L](https://iopscience.iop.org/journal/2041-8205), [S](https://iopscience.iop.org/journal/0067-0049)), [MNRAS](https://academic.oup.com/mnras/advance-articles), [RAA](http://www.raa-journal.org/); [JCAP](https://iopscience.iop.org/journal/1475-7516), [JHEAP](https://www.sciencedirect.com/journal/journal-of-high-energy-astrophysics); [PR](https://journals.aps.org/all_journals), [SCPMA](https://www.sciengine.com/SCPMA/home); [Np](https://www.nature.com/nphys/), [Na](https://www.nature.com/natastron/); [ARAA](https://www.annualreviews.org/journal/astro), [AAR](https://link.springer.com/journal/159), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews); [N](https://www.nature.com/), [S](https://www.science.org/).   
 中文期刊: [天文学进展](http://center.shao.ac.cn/twxjz/index.htm), [天文学报](http://www.twxb.org/twxb/home), [中国科学](https://www.scichina.com/), [物理与工程](https://gkwl.cbpt.cnki.net/WKD3/WebPublication/index.aspx?mid=GKWL).      
 AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [APS](https://www.aps.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/), [IUPAP](https://iupap.org/).  
