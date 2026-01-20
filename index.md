@@ -5,7 +5,8 @@
 **Teaching**   
 大学物理（本科） College Physics (2022F-2023F, Lecturer);   
 电动力学（本科）  Electrodynamics (2022S, TA; 2023S-present, Lecturer);   
-天体物理概论（本科）  Introduction to Astrophysics (2023F-present, Lecturer).    
+天体物理概论（本科）  Introduction to Astrophysics (2023F-present, Lecturer);  
+高等电动力学（研究生） Advanced Electrodynamics (2025F-present, Lecturer).  
 Texts: [Physics](https://www.douban.com/doulist/111696576/), [Astrophysics](https://www.douban.com/doulist/112364872/).  
 
 **Research Interests**         
@@ -46,9 +47,7 @@ Books: [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wil
 Tools: [Wolfram](https://www.wolframalpha.com/); | [Sharelatex](https://sharelatex.cstcloud.cn/project), [Overleaf](https://www.overleaf.com/project); | [Visit](https://wci.llnl.gov/simulation/computer-codes/visit), [Paraview](https://www.paraview.org/), [WebPlotDigitizer](https://apps.automeris.io/wpd/); | [Windy](https://www.windy.com/?35.187,113.803,5).  
 Coding: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/); | [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); | [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/doc/) ; | [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/).  
   
-Jobs: [CAS.jobs](http://astronomy.pmo.cas.cn/twrc/rczp/), [AAS.jobregister](https://jobregister.aas.org/), [AJO](https://academicjobsonline.org/ajo/jobs), [EAS.jobdirectory](https://eas.unige.ch/jobs.jsp).   
-  
-work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/), [ky.htu](http://ky.htu.edu.cn/userAction!to_login.action); [NSFC](https://www.nsfc.gov.cn/).  
+work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/).  
 
 
 
